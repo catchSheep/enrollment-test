@@ -1,0 +1,23 @@
+#map1Button {
+  position: absolute;
+  top: 20px;
+  right: 400px;
+  padding: 10px;
+  z-index: 400;
+}
+
+#map2Button {
+  position: absolute;
+  top: 20px;
+  right: 300px;
+  padding: 10px;
+  z-index: 400;
+}
+
+#map3Button {
+  position: absolute;
+  top: 80px;
+  right: 300px;
+  padding: 10px;
+  z-index: 400;
+}
