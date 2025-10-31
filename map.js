@@ -165,7 +165,7 @@ function onEachFeature(feature, layer) {
     });
 }
 
-map.attributionControl.addAttribution('Population data &copy; <a href="http://census.gov/">Australian Bureau of Statistics</a>');
+map.attributionControl.addAttribution('Population data &copy; <a href="http://census.gov.au/">Australian Bureau of Statistics</a>');
 
 
 const legend = L.control({ position: 'bottomright' });
