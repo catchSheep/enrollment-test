@@ -4,85 +4,98 @@
 
 <head>
 
-    <base target="_top">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <base target="_top">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Quick Start - Leaflet</title>
+  <title>ACSES Enrollments Map</title>
 
-    <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+  <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
 
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
-    <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="map_features.css">
+  <link rel="stylesheet" href="dropdowns.css">
+  <link rel="stylesheet" href="containers.css">
 
-    <style>
-        #map {
-            width: 800px;
-            height: 500px;
-        }
 
-        .info {
-            padding: 6px 8px;
-            font: 14px/16px Arial, Helvetica, sans-serif;
-            background: white;
-            background: rgba(255, 255, 255, 0.8);
-            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-            border-radius: 5px;
-        }
-
-        .info h4 {
-            margin: 0 0 5px;
-            color: #777;
-        }
-
-        .legend {
-            text-align: left;
-            line-height: 18px;
-            color: #555;
-        }
-
-        .legend i {
-            width: 18px;
-            height: 18px;
-            float: left;
-            margin-right: 8px;
-            opacity: 0.7;
-        }
-    </style>
 </head>
 
 
-<style>
-    html,
-    body {
-        height: 100%;
-        margin: 0;
-    }
-
-    .leaflet-container {
-        height: 400px;
-        width: 600px;
-        max-width: 100%;
-        max-height: 100%;
-    }
-</style>
 
 
 </head>
 
 <body>
 
+  <div class="grid-container">
+    <div class="left-panel">
+      <!-- Search for an area -->
+      <div class="dropdown">
+        <button onclick="toggleSearch()" class="dropbtn" id="searchBtn">Area Search</button>
+        <div id="search-dropdown" class="dropdown-content">
+          <input type="text" placeholder="Search.." id="searchInput" onkeyup="filterFunction()">
+          <a href="#">Area1</a>
+          <a href="#">Area2</a>
+          <a href="#">Example Goldfields</a>
+          <a href="#">Example Perth</a>
+          <a href="#">Sydney</a>
+          <a href="#">Mandurah</a>
+        </div>
+      </div>
+      <!-- Region -->
+      <div class="dropdown">
+        <button class="dropbtn">Region</button>
+        <div class="dropdown-content">
+          <a href="#" onclick="SA3toMap()">Australia-Wide (SA3)</a>
+          <a href="#" onclick="SA2WAtoMap()">WA (SA2)</a>
+          <a href="#">NSW (SA2)</a>
+        </div>
+      </div>
+      <!-- Filter: Enrollment type -->
+      <div class="dropdown">
+        <button class="dropbtn">Enrollment Type</button>
+        <div class="dropdown-content">
+          <a href="#">All Students</a>
+          <a href="#">External</a>
+          <a href="#">Internal</a>
+          <a href="#">Multi-modal</a>
+        </div>
+      </div>
+      <!-- Filter: Equity status -->
+      <div class="dropdown">
+        <button class="dropbtn">Equity Group</button>
+        <div class="dropdown-content">
+          <a href="#">All Students</a>
+          <a href="#">Low SES</a>
+          <a href="#">First Nations</a>
+          <a href="#">Regional/Remote</a>
+          <a href="#">Disability</a>
+        </div>
+      </div>
+    </div>
+    <div class="right-panel">
+      <div class="leaflet-map" id="map"></div>
+      <script src="map.js"></script>
 
-    <div id="map" style="width: 100%; height: 100%;"></div>
-    <script src="map.js"></script>
+    </div>
+  </div>
 
-    <input id="map1Button" type="button" value="SA3" onclick="SA3toMap();" />
-    <input id="map2Button" type="button" value="SA2 W.A." onclick="SA2WAtoMap();" />
+
+
+
+  <!-- <div class="container">
+        <div><input id="map1Button" type="button" value="SA3" onclick="SA3toMap();" /></div>
+        <div><input id="map2Button" type="button" value="SA2 W.A." onclick="SA2WAtoMap();" /></div>
+    </div> -->
+
+  <!-- <div id="controls" style="width: 100%"></div>
+    <div id="map" style="width: 80%"></div> -->
+
 
 
 </body>

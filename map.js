@@ -4,9 +4,30 @@ const map = L.map('map').setView([-30, 130], 5);
 const sa3_url = 'sa3_simple.geojson'
 const sa2_wa_url = 'sa2_wa_simple.geojson'
 
+// search
+function toggleSearch() {
+    document.getElementById("search-dropdown").classList.toggle("show");
+}
 
+function filterFunction() {
+    var input, filter, ul, li, a, i;
+    input = document.getElementById("searchInput");
+    console.log(input)
+    console.log(input.value)
+    filter = input.value.toUpperCase();
+    div = document.getElementById("search-dropdown");
+    a = div.getElementsByTagName("a"); // tag a => links
+    for (i = 0; i < a.length; i++) {
+        txtValue = a[i].textContent || a[i].innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            a[i].style.display = "";
+        } else {
+            a[i].style.display = "none";
+        }
+    }
+}
 
-
+// map
 const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: 'basemap &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'

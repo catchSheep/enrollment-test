@@ -1,0 +1,107 @@
+.dropdown {
+  padding-left: 16px;
+  display: inline-block;
+  position: relative;
+  outline: none;
+  margin: 10px 5px;
+}
+
+/* Style the dropdown button */
+.dropbtn,
+.dropbtn-search {
+  background-color: #ffffff;
+  color: #351c26;
+  font-weight: bold;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  min-width: 200px;
+  width: 90%;
+  cursor: pointer;
+  transition: 0.7s ease-out;
+  background-image: url('icons/dropdown.svg');
+  background-position: 14px 12px;
+  background-repeat: no-repeat;
+}
+
+/* Dropdown content */
+.dropdown .dropdown-content {
+  position: absolute;
+  padding: 16px;
+  z-index: 100000;
+  display: none;
+  background-color: #ffffff;
+  box-shadow: 0px 8px 8px 0px rgba(0, 0, 0, 0.2);
+  left: 10%;
+  width: 100%;
+  max-width: 100%;
+}
+
+
+/* Links inside dropdown content */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #f1f1f1
+}
+
+/* Show the dropdown content on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change background color of dropdown button on hover */
+.dropdown:hover .dropbtn {
+  transition: 0.7s ease;
+  background-color: #3e8e41;
+  color: #ffffff;
+  background-color: #351c26;
+}
+
+/* Search button */
+
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-search-content {
+  display: none;
+  position: absolute;
+  background-color: #f6f6f6;
+  min-width: 230px;
+  border: 1px solid #ddd;
+  z-index: 1;
+}
+
+
+/* The search field */
+#searchBtn {
+  background-image: url('icons/search.svg');
+}
+
+
+#searchInput {
+  box-sizing: border-box;
+  background-image: url('icons/search.svg');
+  background-position: 14px 12px;
+  background-repeat: no-repeat;
+  font-size: 16px;
+  padding: 14px 20px 12px 45px;
+  border: none;
+  border-bottom: 1px solid #ddd;
+}
+
+/* The search field when it gets focus/clicked on */
+#searchInput:focus {
+  outline: 3px solid #ddd;
+}
+
+
+.show {
+  display: block;
+}
