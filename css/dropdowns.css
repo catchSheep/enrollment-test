@@ -1,0 +1,179 @@
+.dropdown {
+  padding-left: 16px;
+  display: inline-block;
+  position: relative;
+  outline: none;
+  margin: 10px 5px;
+  text-rendering: optimizeLegibility;
+}
+
+.dropdown .title {
+  display: inline-block;
+  position: relative;
+  outline: none;
+  padding: 0px 0px 5px;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: Inter, sans-serif;
+  color: #351c26;
+}
+
+.dropbtn,
+.dropbtn-search {
+  background-color: #ffffff;
+  color: #351c26;
+  font-weight: bold;
+  padding: 16px;
+  font-size: 14px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  cursor: pointer;
+  transition: 0.7s ease-out;
+  background-image: url('icons/dropdown.svg');
+  background-position: calc(100% - 16px) 50%;
+  background-repeat: no-repeat;
+}
+
+.dropdown-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.dropdown .button {
+  background-color: #ffffff;
+  border: none;
+  color: #351c26;
+  font-weight: bold;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.dropdown .dropdown-content {
+  position: absolute;
+  padding: 16px;
+  font-weight: bold;
+  z-index: 1000;
+  display: none;
+  background-color: #ffffff;
+  box-shadow: 0px 8px 8px 0px rgba(0, 0, 0, 0.2);
+  left: 30px;
+  width: 100%;
+  max-width: 450px;
+  max-height: 600px;
+  display: column-reverse;
+  flex-direction: column-reverse;
+  overflow: auto;
+}
+
+
+.dropdown-content button {
+  background: transparent;
+  border: none;
+  color: #351c26;
+  font-weight: bold;
+  padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: none;
+  width: 85%;
+
+}
+
+
+
+.dropdown-content button:hover {
+  background-color: #f1f1f1
+}
+
+
+/* Show the dropdown content on click (using ts) */
+.dropdown.active .dropdown-content {
+  display: block;
+}
+
+/* Change background color of dropdown button on hover */
+.dropdown:hover .dropbtn {
+  transition: 0.7s ease;
+  color: #ffffff;
+  background-color: #351c26;
+}
+
+/* Search button */
+/* Dropdown Content (Hidden by Default) */
+.dropdown-search-content {
+  display: none;
+  position: absolute;
+  background-color: #f6f6f6;
+  min-width: 230px;
+  border: 1px solid #ddd;
+  z-index: 1;
+}
+
+
+/* The search field */
+#searchBtn {
+  background-image: url('icons/search.svg');
+}
+
+
+#searchInput {
+  box-sizing: border-box;
+  background-image: url('icons/search.svg');
+  background-position: 14px 12px;
+  background-repeat: no-repeat;
+  font-size: 14px;
+  padding: 14px 20px 12px 45px;
+  border: none;
+  border-bottom: 1px solid #ddd;
+}
+
+/* The search field when it gets focus/clicked on */
+#searchInput:focus {
+  outline: 3px solid #ddd;
+}
+
+.top-icon-row-icon {
+  height: 72px;
+  width: 72px;
+  border-radius: 5px;
+  display: inline-block;
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  /* -webkit-mask-size: contain;
+  mask-size: contain; */
+}
+
+.top-icon-row-icon:hover {
+  background-color: #76dad5;
+}
+
+#helpbox-button {
+  background-image: url(icons/info.svg);
+}
+
+#citationbox-button {
+  background-image: url(icons/quote.svg);
+  /* -webkit-mask: url(icons/quote.svg) no-repeat 50% 50%;
+  mask: url(icons/quote.svg) no-repeat 50% 50%; */
+}
+
+
+@media (max-width: 800px) {
+  .dropdown .dropdown-content {
+    max-height: 300px;
+  }
+}

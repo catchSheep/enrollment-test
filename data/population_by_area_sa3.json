@@ -1,0 +1,6812 @@
+{
+  "2020": {
+    "10102": {
+      "name": "Queanbeyan",
+      "population": 63957
+    },
+    "10103": {
+      "name": "Snowy Mountains",
+      "population": 20508
+    },
+    "10104": {
+      "name": "South Coast",
+      "population": 75539
+    },
+    "10105": {
+      "name": "Goulburn - Mulwaree",
+      "population": 38231
+    },
+    "10106": {
+      "name": "Young - Yass",
+      "population": 37859
+    },
+    "10201": {
+      "name": "Gosford",
+      "population": 179107
+    },
+    "10202": {
+      "name": "Wyong",
+      "population": 168627
+    },
+    "10301": {
+      "name": "Bathurst",
+      "population": 48984
+    },
+    "10302": {
+      "name": "Lachlan Valley",
+      "population": 55398
+    },
+    "10303": {
+      "name": "Lithgow - Mudgee",
+      "population": 48044
+    },
+    "10304": {
+      "name": "Orange",
+      "population": 61142
+    },
+    "10401": {
+      "name": "Clarence Valley",
+      "population": 52448
+    },
+    "10402": {
+      "name": "Coffs Harbour",
+      "population": 92006
+    },
+    "10501": {
+      "name": "Bourke - Cobar - Coonamble",
+      "population": 22800
+    },
+    "10502": {
+      "name": "Broken Hill and Far West",
+      "population": 20106
+    },
+    "10503": {
+      "name": "Dubbo",
+      "population": 74469
+    },
+    "10601": {
+      "name": "Lower Hunter",
+      "population": 96552
+    },
+    "10602": {
+      "name": "Maitland",
+      "population": 84698
+    },
+    "10603": {
+      "name": "Port Stephens",
+      "population": 75684
+    },
+    "10604": {
+      "name": "Upper Hunter",
+      "population": 30833
+    },
+    "10701": {
+      "name": "Dapto - Port Kembla",
+      "population": 79395
+    },
+    "10702": {
+      "name": "Illawarra Catchment Reserve",
+      "population": 5
+    },
+    "10703": {
+      "name": "Kiama - Shellharbour",
+      "population": 97727
+    },
+    "10704": {
+      "name": "Wollongong",
+      "population": 135681
+    },
+    "10801": {
+      "name": "Great Lakes",
+      "population": 32998
+    },
+    "10802": {
+      "name": "Kempsey - Nambucca",
+      "population": 50954
+    },
+    "10803": {
+      "name": "Lord Howe Island",
+      "population": 438
+    },
+    "10804": {
+      "name": "Port Macquarie",
+      "population": 85516
+    },
+    "10805": {
+      "name": "Taree - Gloucester",
+      "population": 57010
+    },
+    "10901": {
+      "name": "Albury",
+      "population": 66203
+    },
+    "10902": {
+      "name": "Lower Murray",
+      "population": 13065
+    },
+    "10903": {
+      "name": "Upper Murray exc. Albury",
+      "population": 43179
+    },
+    "11001": {
+      "name": "Armidale",
+      "population": 38122
+    },
+    "11002": {
+      "name": "Inverell - Tenterfield",
+      "population": 38956
+    },
+    "11003": {
+      "name": "Moree - Narrabri",
+      "population": 25337
+    },
+    "11004": {
+      "name": "Tamworth - Gunnedah",
+      "population": 85133
+    },
+    "11101": {
+      "name": "Lake Macquarie - East",
+      "population": 126112
+    },
+    "11102": {
+      "name": "Lake Macquarie - West",
+      "population": 83530
+    },
+    "11103": {
+      "name": "Newcastle",
+      "population": 178080
+    },
+    "11201": {
+      "name": "Richmond Valley - Coastal",
+      "population": 86666
+    },
+    "11202": {
+      "name": "Richmond Valley - Hinterland",
+      "population": 71925
+    },
+    "11203": {
+      "name": "Tweed Valley",
+      "population": 96857
+    },
+    "11301": {
+      "name": "Griffith - Murrumbidgee (West)",
+      "population": 50056
+    },
+    "11302": {
+      "name": "Tumut - Tumbarumba",
+      "population": 14924
+    },
+    "11303": {
+      "name": "Wagga Wagga",
+      "population": 98914
+    },
+    "11401": {
+      "name": "Shoalhaven",
+      "population": 107054
+    },
+    "11402": {
+      "name": "Southern Highlands",
+      "population": 51986
+    },
+    "11501": {
+      "name": "Baulkham Hills",
+      "population": 155746
+    },
+    "11502": {
+      "name": "Dural - Wisemans Ferry",
+      "population": 28043
+    },
+    "11503": {
+      "name": "Hawkesbury",
+      "population": 25227
+    },
+    "11504": {
+      "name": "Rouse Hill - McGraths Hill",
+      "population": 50984
+    },
+    "11601": {
+      "name": "Blacktown",
+      "population": 144932
+    },
+    "11602": {
+      "name": "Blacktown - North",
+      "population": 132894
+    },
+    "11603": {
+      "name": "Mount Druitt",
+      "population": 118049
+    },
+    "11701": {
+      "name": "Botany",
+      "population": 57666
+    },
+    "11702": {
+      "name": "Marrickville - Sydenham - Petersham",
+      "population": 56787
+    },
+    "11703": {
+      "name": "Sydney Inner City",
+      "population": 234080
+    },
+    "11801": {
+      "name": "Eastern Suburbs - North",
+      "population": 133183
+    },
+    "11802": {
+      "name": "Eastern Suburbs - South",
+      "population": 142490
+    },
+    "11901": {
+      "name": "Bankstown",
+      "population": 187781
+    },
+    "11902": {
+      "name": "Canterbury",
+      "population": 144515
+    },
+    "11903": {
+      "name": "Hurstville",
+      "population": 134870
+    },
+    "11904": {
+      "name": "Kogarah - Rockdale",
+      "population": 148954
+    },
+    "12001": {
+      "name": "Canada Bay",
+      "population": 89181
+    },
+    "12002": {
+      "name": "Leichhardt",
+      "population": 58518
+    },
+    "12003": {
+      "name": "Strathfield - Burwood - Ashfield",
+      "population": 165638
+    },
+    "12101": {
+      "name": "Chatswood - Lane Cove",
+      "population": 121009
+    },
+    "12102": {
+      "name": "Hornsby",
+      "population": 88651
+    },
+    "12103": {
+      "name": "Ku-ring-gai",
+      "population": 126760
+    },
+    "12104": {
+      "name": "North Sydney - Mosman",
+      "population": 98479
+    },
+    "12201": {
+      "name": "Manly",
+      "population": 44638
+    },
+    "12202": {
+      "name": "Pittwater",
+      "population": 64024
+    },
+    "12203": {
+      "name": "Warringah",
+      "population": 159502
+    },
+    "12301": {
+      "name": "Camden",
+      "population": 72657
+    },
+    "12302": {
+      "name": "Campbelltown (NSW)",
+      "population": 177092
+    },
+    "12303": {
+      "name": "Wollondilly",
+      "population": 45563
+    },
+    "12401": {
+      "name": "Blue Mountains",
+      "population": 78855
+    },
+    "12402": {
+      "name": "Blue Mountains - South",
+      "population": 6
+    },
+    "12403": {
+      "name": "Penrith",
+      "population": 157885
+    },
+    "12404": {
+      "name": "Richmond - Windsor",
+      "population": 38208
+    },
+    "12405": {
+      "name": "St Marys",
+      "population": 57169
+    },
+    "12501": {
+      "name": "Auburn",
+      "population": 105284
+    },
+    "12502": {
+      "name": "Carlingford",
+      "population": 74749
+    },
+    "12503": {
+      "name": "Merrylands - Guildford",
+      "population": 166282
+    },
+    "12504": {
+      "name": "Parramatta",
+      "population": 156903
+    },
+    "12601": {
+      "name": "Pennant Hills - Epping",
+      "population": 55185
+    },
+    "12602": {
+      "name": "Ryde - Hunters Hill",
+      "population": 149951
+    },
+    "12701": {
+      "name": "Bringelly - Green Valley",
+      "population": 135845
+    },
+    "12702": {
+      "name": "Fairfield",
+      "population": 198451
+    },
+    "12703": {
+      "name": "Liverpool",
+      "population": 135354
+    },
+    "12801": {
+      "name": "Cronulla - Miranda - Caringbah",
+      "population": 117585
+    },
+    "12802": {
+      "name": "Sutherland - Menai - Heathcote",
+      "population": 112170
+    },
+    "20101": {
+      "name": "Ballarat",
+      "population": 114014
+    },
+    "20102": {
+      "name": "Creswick - Daylesford - Ballan",
+      "population": 30473
+    },
+    "20103": {
+      "name": "Maryborough - Pyrenees",
+      "population": 26396
+    },
+    "20201": {
+      "name": "Bendigo",
+      "population": 102023
+    },
+    "20202": {
+      "name": "Heathcote - Castlemaine - Kyneton",
+      "population": 51394
+    },
+    "20203": {
+      "name": "Loddon - Elmore",
+      "population": 11989
+    },
+    "20301": {
+      "name": "Barwon - West",
+      "population": 21740
+    },
+    "20302": {
+      "name": "Geelong",
+      "population": 209724
+    },
+    "20303": {
+      "name": "Surf Coast - Bellarine Peninsula",
+      "population": 88864
+    },
+    "20401": {
+      "name": "Upper Goulburn Valley",
+      "population": 58690
+    },
+    "20402": {
+      "name": "Wangaratta - Benalla",
+      "population": 47998
+    },
+    "20403": {
+      "name": "Wodonga - Alpine",
+      "population": 75434
+    },
+    "20501": {
+      "name": "Baw Baw",
+      "population": 55902
+    },
+    "20502": {
+      "name": "Gippsland - East",
+      "population": 47982
+    },
+    "20503": {
+      "name": "Gippsland - South West",
+      "population": 69392
+    },
+    "20504": {
+      "name": "Latrobe Valley",
+      "population": 76558
+    },
+    "20505": {
+      "name": "Wellington",
+      "population": 44997
+    },
+    "20601": {
+      "name": "Brunswick - Coburg",
+      "population": 95057
+    },
+    "20602": {
+      "name": "Darebin - South",
+      "population": 56399
+    },
+    "20603": {
+      "name": "Essendon",
+      "population": 72376
+    },
+    "20604": {
+      "name": "Melbourne City",
+      "population": 170568
+    },
+    "20605": {
+      "name": "Port Phillip",
+      "population": 110595
+    },
+    "20606": {
+      "name": "Stonnington - West",
+      "population": 68074
+    },
+    "20607": {
+      "name": "Yarra",
+      "population": 97615
+    },
+    "20701": {
+      "name": "Boroondara",
+      "population": 177875
+    },
+    "20702": {
+      "name": "Manningham - West",
+      "population": 100990
+    },
+    "20703": {
+      "name": "Whitehorse - West",
+      "population": 112582
+    },
+    "20801": {
+      "name": "Bayside",
+      "population": 105018
+    },
+    "20802": {
+      "name": "Glen Eira",
+      "population": 162613
+    },
+    "20803": {
+      "name": "Kingston",
+      "population": 126174
+    },
+    "20804": {
+      "name": "Stonnington - East",
+      "population": 44536
+    },
+    "20901": {
+      "name": "Banyule",
+      "population": 130294
+    },
+    "20902": {
+      "name": "Darebin - North",
+      "population": 100657
+    },
+    "20903": {
+      "name": "Nillumbik - Kinglake",
+      "population": 68494
+    },
+    "20904": {
+      "name": "Whittlesea - Wallan",
+      "population": 252583
+    },
+    "21001": {
+      "name": "Keilor",
+      "population": 63187
+    },
+    "21002": {
+      "name": "Macedon Ranges",
+      "population": 32835
+    },
+    "21003": {
+      "name": "Moreland - North",
+      "population": 84021
+    },
+    "21004": {
+      "name": "Sunbury",
+      "population": 45102
+    },
+    "21005": {
+      "name": "Tullamarine - Broadmeadows",
+      "population": 203189
+    },
+    "21101": {
+      "name": "Knox",
+      "population": 163282
+    },
+    "21102": {
+      "name": "Manningham - East",
+      "population": 27072
+    },
+    "21103": {
+      "name": "Maroondah",
+      "population": 117825
+    },
+    "21104": {
+      "name": "Whitehorse - East",
+      "population": 65005
+    },
+    "21105": {
+      "name": "Yarra Ranges",
+      "population": 158057
+    },
+    "21201": {
+      "name": "Cardinia",
+      "population": 116662
+    },
+    "21202": {
+      "name": "Casey - North",
+      "population": 141036
+    },
+    "21203": {
+      "name": "Casey - South",
+      "population": 222934
+    },
+    "21204": {
+      "name": "Dandenong",
+      "population": 202670
+    },
+    "21205": {
+      "name": "Monash",
+      "population": 192834
+    },
+    "21301": {
+      "name": "Brimbank",
+      "population": 195438
+    },
+    "21302": {
+      "name": "Hobsons Bay",
+      "population": 90097
+    },
+    "21303": {
+      "name": "Maribyrnong",
+      "population": 89418
+    },
+    "21304": {
+      "name": "Melton - Bacchus Marsh",
+      "population": 193178
+    },
+    "21305": {
+      "name": "Wyndham",
+      "population": 292388
+    },
+    "21401": {
+      "name": "Frankston",
+      "population": 142191
+    },
+    "21402": {
+      "name": "Mornington Peninsula",
+      "population": 170186
+    },
+    "21501": {
+      "name": "Grampians",
+      "population": 60232
+    },
+    "21502": {
+      "name": "Mildura",
+      "population": 57335
+    },
+    "21503": {
+      "name": "Murray River - Swan Hill",
+      "population": 38230
+    },
+    "21601": {
+      "name": "Campaspe",
+      "population": 38536
+    },
+    "21602": {
+      "name": "Moira",
+      "population": 30298
+    },
+    "21603": {
+      "name": "Shepparton",
+      "population": 68274
+    },
+    "21701": {
+      "name": "Glenelg - Southern Grampians",
+      "population": 36618
+    },
+    "21703": {
+      "name": "Colac - Corangamite",
+      "population": 38342
+    },
+    "21704": {
+      "name": "Warrnambool",
+      "population": 52504
+    },
+    "30101": {
+      "name": "Capalaba",
+      "population": 75037
+    },
+    "30102": {
+      "name": "Cleveland - Stradbroke",
+      "population": 93047
+    },
+    "30103": {
+      "name": "Wynnum - Manly",
+      "population": 74031
+    },
+    "30201": {
+      "name": "Bald Hills - Everton Park",
+      "population": 46057
+    },
+    "30202": {
+      "name": "Chermside",
+      "population": 75318
+    },
+    "30203": {
+      "name": "Nundah",
+      "population": 43261
+    },
+    "30204": {
+      "name": "Sandgate",
+      "population": 62264
+    },
+    "30301": {
+      "name": "Carindale",
+      "population": 54944
+    },
+    "30302": {
+      "name": "Holland Park - Yeronga",
+      "population": 80852
+    },
+    "30303": {
+      "name": "Mt Gravatt",
+      "population": 80396
+    },
+    "30304": {
+      "name": "Nathan",
+      "population": 40894
+    },
+    "30305": {
+      "name": "Rocklea - Acacia Ridge",
+      "population": 67616
+    },
+    "30306": {
+      "name": "Sunnybank",
+      "population": 52177
+    },
+    "30401": {
+      "name": "Centenary",
+      "population": 33732
+    },
+    "30402": {
+      "name": "Kenmore - Brookfield - Moggill",
+      "population": 48624
+    },
+    "30403": {
+      "name": "Sherwood - Indooroopilly",
+      "population": 56589
+    },
+    "30404": {
+      "name": "The Gap - Enoggera",
+      "population": 54771
+    },
+    "30501": {
+      "name": "Brisbane Inner",
+      "population": 88864
+    },
+    "30502": {
+      "name": "Brisbane Inner - East",
+      "population": 45336
+    },
+    "30503": {
+      "name": "Brisbane Inner - North",
+      "population": 101835
+    },
+    "30504": {
+      "name": "Brisbane Inner - West",
+      "population": 62215
+    },
+    "30601": {
+      "name": "Cairns - North",
+      "population": 58114
+    },
+    "30602": {
+      "name": "Cairns - South",
+      "population": 106932
+    },
+    "30603": {
+      "name": "Innisfail - Cassowary Coast",
+      "population": 35878
+    },
+    "30604": {
+      "name": "Port Douglas - Daintree",
+      "population": 12287
+    },
+    "30605": {
+      "name": "Tablelands (East) - Kuranda",
+      "population": 43051
+    },
+    "30701": {
+      "name": "Darling Downs (West) - Maranoa",
+      "population": 44780
+    },
+    "30702": {
+      "name": "Darling Downs - East",
+      "population": 43377
+    },
+    "30703": {
+      "name": "Granite Belt",
+      "population": 41626
+    },
+    "30801": {
+      "name": "Central Highlands (Qld)",
+      "population": 29544
+    },
+    "30803": {
+      "name": "Rockhampton",
+      "population": 121558
+    },
+    "30804": {
+      "name": "Biloela",
+      "population": 14587
+    },
+    "30805": {
+      "name": "Gladstone",
+      "population": 63890
+    },
+    "30901": {
+      "name": "Broadbeach - Burleigh",
+      "population": 67085
+    },
+    "30902": {
+      "name": "Coolangatta",
+      "population": 57987
+    },
+    "30903": {
+      "name": "Gold Coast - North",
+      "population": 70100
+    },
+    "30904": {
+      "name": "Gold Coast Hinterland",
+      "population": 20156
+    },
+    "30905": {
+      "name": "Mudgeeraba - Tallebudgera",
+      "population": 36168
+    },
+    "30906": {
+      "name": "Nerang",
+      "population": 70786
+    },
+    "30907": {
+      "name": "Ormeau - Oxenford",
+      "population": 154661
+    },
+    "30908": {
+      "name": "Robina",
+      "population": 54506
+    },
+    "30909": {
+      "name": "Southport",
+      "population": 65194
+    },
+    "30910": {
+      "name": "Surfers Paradise",
+      "population": 45403
+    },
+    "31001": {
+      "name": "Forest Lake - Oxley",
+      "population": 79505
+    },
+    "31002": {
+      "name": "Ipswich Hinterland",
+      "population": 67495
+    },
+    "31003": {
+      "name": "Ipswich Inner",
+      "population": 115533
+    },
+    "31004": {
+      "name": "Springfield - Redbank",
+      "population": 103574
+    },
+    "31101": {
+      "name": "Beaudesert",
+      "population": 14857
+    },
+    "31102": {
+      "name": "Beenleigh",
+      "population": 46105
+    },
+    "31103": {
+      "name": "Browns Plains",
+      "population": 92273
+    },
+    "31104": {
+      "name": "Jimboomba",
+      "population": 59561
+    },
+    "31105": {
+      "name": "Loganlea - Carbrook",
+      "population": 64952
+    },
+    "31106": {
+      "name": "Springwood - Kingston",
+      "population": 80930
+    },
+    "31201": {
+      "name": "Bowen Basin - North",
+      "population": 35799
+    },
+    "31202": {
+      "name": "Mackay",
+      "population": 121395
+    },
+    "31203": {
+      "name": "Whitsunday",
+      "population": 23447
+    },
+    "31301": {
+      "name": "Bribie - Beachmere",
+      "population": 36774
+    },
+    "31302": {
+      "name": "Caboolture",
+      "population": 78885
+    },
+    "31303": {
+      "name": "Caboolture Hinterland",
+      "population": 14724
+    },
+    "31304": {
+      "name": "Narangba - Burpengary",
+      "population": 69487
+    },
+    "31305": {
+      "name": "Redcliffe",
+      "population": 63843
+    },
+    "31401": {
+      "name": "The Hills District",
+      "population": 91201
+    },
+    "31402": {
+      "name": "North Lakes",
+      "population": 87680
+    },
+    "31403": {
+      "name": "Strathpine",
+      "population": 40140
+    },
+    "31501": {
+      "name": "Far North",
+      "population": 33161
+    },
+    "31502": {
+      "name": "Outback - North",
+      "population": 31034
+    },
+    "31503": {
+      "name": "Outback - South",
+      "population": 17445
+    },
+    "31601": {
+      "name": "Buderim",
+      "population": 59260
+    },
+    "31602": {
+      "name": "Caloundra",
+      "population": 94569
+    },
+    "31603": {
+      "name": "Maroochy",
+      "population": 63590
+    },
+    "31605": {
+      "name": "Noosa",
+      "population": 46884
+    },
+    "31606": {
+      "name": "Sunshine Coast Hinterland",
+      "population": 57396
+    },
+    "31607": {
+      "name": "Nambour",
+      "population": 49216
+    },
+    "31608": {
+      "name": "Noosa Hinterland",
+      "population": 24136
+    },
+    "31701": {
+      "name": "Toowoomba",
+      "population": 162360
+    },
+    "31801": {
+      "name": "Charters Towers - Ayr - Ingham",
+      "population": 41926
+    },
+    "31802": {
+      "name": "Townsville",
+      "population": 194726
+    },
+    "31901": {
+      "name": "Bundaberg",
+      "population": 93508
+    },
+    "31902": {
+      "name": "Burnett",
+      "population": 49762
+    },
+    "31903": {
+      "name": "Gympie - Cooloola",
+      "population": 52927
+    },
+    "31904": {
+      "name": "Hervey Bay",
+      "population": 62715
+    },
+    "31905": {
+      "name": "Maryborough",
+      "population": 47308
+    },
+    "40101": {
+      "name": "Adelaide City",
+      "population": 25964
+    },
+    "40102": {
+      "name": "Adelaide Hills",
+      "population": 78778
+    },
+    "40103": {
+      "name": "Burnside",
+      "population": 46415
+    },
+    "40104": {
+      "name": "Campbelltown (SA)",
+      "population": 55281
+    },
+    "40105": {
+      "name": "Norwood - Payneham - St Peters",
+      "population": 37958
+    },
+    "40106": {
+      "name": "Prospect - Walkerville",
+      "population": 30390
+    },
+    "40107": {
+      "name": "Unley",
+      "population": 39465
+    },
+    "40201": {
+      "name": "Gawler - Two Wells",
+      "population": 37307
+    },
+    "40202": {
+      "name": "Playford",
+      "population": 99242
+    },
+    "40203": {
+      "name": "Port Adelaide - East",
+      "population": 77028
+    },
+    "40204": {
+      "name": "Salisbury",
+      "population": 146005
+    },
+    "40205": {
+      "name": "Tea Tree Gully",
+      "population": 97185
+    },
+    "40301": {
+      "name": "Holdfast Bay",
+      "population": 35906
+    },
+    "40302": {
+      "name": "Marion",
+      "population": 96853
+    },
+    "40303": {
+      "name": "Mitcham",
+      "population": 66844
+    },
+    "40304": {
+      "name": "Onkaparinga",
+      "population": 176279
+    },
+    "40401": {
+      "name": "Charles Sturt",
+      "population": 118720
+    },
+    "40402": {
+      "name": "Port Adelaide - West",
+      "population": 61190
+    },
+    "40403": {
+      "name": "West Torrens",
+      "population": 65945
+    },
+    "40501": {
+      "name": "Barossa",
+      "population": 38308
+    },
+    "40502": {
+      "name": "Lower North",
+      "population": 23061
+    },
+    "40503": {
+      "name": "Mid North",
+      "population": 27794
+    },
+    "40504": {
+      "name": "Yorke Peninsula",
+      "population": 26797
+    },
+    "40601": {
+      "name": "Eyre Peninsula and South West",
+      "population": 58618
+    },
+    "40602": {
+      "name": "Outback - North and East",
+      "population": 26831
+    },
+    "40701": {
+      "name": "Fleurieu - Kangaroo Island",
+      "population": 55129
+    },
+    "40702": {
+      "name": "Limestone Coast",
+      "population": 68154
+    },
+    "40703": {
+      "name": "Murray and Mallee",
+      "population": 72908
+    },
+    "50101": {
+      "name": "Augusta - Margaret River - Busselton",
+      "population": 57750
+    },
+    "50102": {
+      "name": "Bunbury",
+      "population": 109636
+    },
+    "50103": {
+      "name": "Manjimup",
+      "population": 24093
+    },
+    "50201": {
+      "name": "Mandurah",
+      "population": 108625
+    },
+    "50301": {
+      "name": "Cottesloe - Claremont",
+      "population": 74181
+    },
+    "50302": {
+      "name": "Perth City",
+      "population": 114409
+    },
+    "50401": {
+      "name": "Bayswater - Bassendean",
+      "population": 86829
+    },
+    "50402": {
+      "name": "Mundaring",
+      "population": 44648
+    },
+    "50403": {
+      "name": "Swan",
+      "population": 149527
+    },
+    "50501": {
+      "name": "Joondalup",
+      "population": 164627
+    },
+    "50502": {
+      "name": "Stirling",
+      "population": 213553
+    },
+    "50503": {
+      "name": "Wanneroo",
+      "population": 212269
+    },
+    "50601": {
+      "name": "Armadale",
+      "population": 94970
+    },
+    "50602": {
+      "name": "Belmont - Victoria Park",
+      "population": 77801
+    },
+    "50603": {
+      "name": "Canning",
+      "population": 102163
+    },
+    "50604": {
+      "name": "Gosnells",
+      "population": 129685
+    },
+    "50605": {
+      "name": "Kalamunda",
+      "population": 60337
+    },
+    "50606": {
+      "name": "Serpentine - Jarrahdale",
+      "population": 32508
+    },
+    "50607": {
+      "name": "South Perth",
+      "population": 45123
+    },
+    "50701": {
+      "name": "Cockburn",
+      "population": 116658
+    },
+    "50702": {
+      "name": "Fremantle",
+      "population": 40686
+    },
+    "50703": {
+      "name": "Kwinana",
+      "population": 46243
+    },
+    "50704": {
+      "name": "Melville",
+      "population": 108788
+    },
+    "50705": {
+      "name": "Rockingham",
+      "population": 137931
+    },
+    "50901": {
+      "name": "Albany",
+      "population": 63207
+    },
+    "50902": {
+      "name": "Wheat Belt - North",
+      "population": 57176
+    },
+    "50903": {
+      "name": "Wheat Belt - South",
+      "population": 19947
+    },
+    "51001": {
+      "name": "Kimberley",
+      "population": 38174
+    },
+    "51002": {
+      "name": "East Pilbara",
+      "population": 26648
+    },
+    "51003": {
+      "name": "West Pilbara",
+      "population": 32172
+    },
+    "51101": {
+      "name": "Esperance",
+      "population": 16351
+    },
+    "51102": {
+      "name": "Gascoyne",
+      "population": 9884
+    },
+    "51103": {
+      "name": "Goldfields",
+      "population": 39927
+    },
+    "51104": {
+      "name": "Mid West",
+      "population": 56386
+    },
+    "60101": {
+      "name": "Brighton",
+      "population": 19107
+    },
+    "60102": {
+      "name": "Hobart - North East",
+      "population": 58376
+    },
+    "60103": {
+      "name": "Hobart - North West",
+      "population": 58154
+    },
+    "60104": {
+      "name": "Hobart - South and West",
+      "population": 36652
+    },
+    "60105": {
+      "name": "Hobart Inner",
+      "population": 56301
+    },
+    "60106": {
+      "name": "Sorell - Dodges Ferry",
+      "population": 18269
+    },
+    "60201": {
+      "name": "Launceston",
+      "population": 88411
+    },
+    "60202": {
+      "name": "Meander Valley - West Tamar",
+      "population": 24068
+    },
+    "60203": {
+      "name": "North East",
+      "population": 39572
+    },
+    "60301": {
+      "name": "Central Highlands (Tas.)",
+      "population": 12452
+    },
+    "60302": {
+      "name": "Huon - Bruny Island",
+      "population": 21695
+    },
+    "60303": {
+      "name": "South East Coast",
+      "population": 7508
+    },
+    "60401": {
+      "name": "Burnie - Ulverstone",
+      "population": 50478
+    },
+    "60402": {
+      "name": "Devonport",
+      "population": 48541
+    },
+    "60403": {
+      "name": "West Coast",
+      "population": 17994
+    },
+    "70101": {
+      "name": "Darwin City",
+      "population": 28560
+    },
+    "70102": {
+      "name": "Darwin Suburbs",
+      "population": 57677
+    },
+    "70103": {
+      "name": "Litchfield",
+      "population": 22654
+    },
+    "70104": {
+      "name": "Palmerston",
+      "population": 38782
+    },
+    "70201": {
+      "name": "Alice Springs",
+      "population": 40230
+    },
+    "70202": {
+      "name": "Barkly",
+      "population": 6029
+    },
+    "70203": {
+      "name": "Daly - Tiwi - West Arnhem",
+      "population": 17963
+    },
+    "70204": {
+      "name": "East Arnhem",
+      "population": 14484
+    },
+    "70205": {
+      "name": "Katherine",
+      "population": 21049
+    },
+    "80101": {
+      "name": "Belconnen",
+      "population": 104475
+    },
+    "80103": {
+      "name": "Canberra East",
+      "population": 1841
+    },
+    "80104": {
+      "name": "Gungahlin",
+      "population": 85664
+    },
+    "80105": {
+      "name": "North Canberra",
+      "population": 60574
+    },
+    "80106": {
+      "name": "South Canberra",
+      "population": 31091
+    },
+    "80107": {
+      "name": "Tuggeranong",
+      "population": 88321
+    },
+    "80108": {
+      "name": "Weston Creek",
+      "population": 24190
+    },
+    "80109": {
+      "name": "Woden Valley",
+      "population": 38688
+    },
+    "80110": {
+      "name": "Molonglo",
+      "population": 9453
+    },
+    "80111": {
+      "name": "Uriarra - Namadgi",
+      "population": 606
+    },
+    "90101": {
+      "name": "Christmas Island",
+      "population": 1758
+    },
+    "90102": {
+      "name": "Cocos (Keeling) Islands",
+      "population": 608
+    },
+    "90103": {
+      "name": "Jervis Bay",
+      "population": 335
+    },
+    "90104": {
+      "name": "Norfolk Island",
+      "population": 2102
+    }
+  },
+  "2021": {
+    "10102": {
+      "name": "Queanbeyan",
+      "population": 64892
+    },
+    "10103": {
+      "name": "Snowy Mountains",
+      "population": 20720
+    },
+    "10104": {
+      "name": "South Coast",
+      "population": 76437
+    },
+    "10105": {
+      "name": "Goulburn - Mulwaree",
+      "population": 38484
+    },
+    "10106": {
+      "name": "Young - Yass",
+      "population": 38085
+    },
+    "10201": {
+      "name": "Gosford",
+      "population": 179150
+    },
+    "10202": {
+      "name": "Wyong",
+      "population": 169343
+    },
+    "10301": {
+      "name": "Bathurst",
+      "population": 49241
+    },
+    "10302": {
+      "name": "Lachlan Valley",
+      "population": 54907
+    },
+    "10303": {
+      "name": "Lithgow - Mudgee",
+      "population": 47891
+    },
+    "10304": {
+      "name": "Orange",
+      "population": 61506
+    },
+    "10401": {
+      "name": "Clarence Valley",
+      "population": 53760
+    },
+    "10402": {
+      "name": "Coffs Harbour",
+      "population": 92436
+    },
+    "10501": {
+      "name": "Bourke - Cobar - Coonamble",
+      "population": 22342
+    },
+    "10502": {
+      "name": "Broken Hill and Far West",
+      "population": 19992
+    },
+    "10503": {
+      "name": "Dubbo",
+      "population": 74846
+    },
+    "10601": {
+      "name": "Lower Hunter",
+      "population": 98553
+    },
+    "10602": {
+      "name": "Maitland",
+      "population": 87389
+    },
+    "10603": {
+      "name": "Port Stephens",
+      "population": 76403
+    },
+    "10604": {
+      "name": "Upper Hunter",
+      "population": 30725
+    },
+    "10701": {
+      "name": "Dapto - Port Kembla",
+      "population": 79871
+    },
+    "10702": {
+      "name": "Illawarra Catchment Reserve",
+      "population": 5
+    },
+    "10703": {
+      "name": "Kiama - Shellharbour",
+      "population": 99374
+    },
+    "10704": {
+      "name": "Wollongong",
+      "population": 134841
+    },
+    "10801": {
+      "name": "Great Lakes",
+      "population": 33203
+    },
+    "10802": {
+      "name": "Kempsey - Nambucca",
+      "population": 51276
+    },
+    "10803": {
+      "name": "Lord Howe Island",
+      "population": 444
+    },
+    "10804": {
+      "name": "Port Macquarie",
+      "population": 86654
+    },
+    "10805": {
+      "name": "Taree - Gloucester",
+      "population": 57409
+    },
+    "10901": {
+      "name": "Albury",
+      "population": 66976
+    },
+    "10902": {
+      "name": "Lower Murray",
+      "population": 13093
+    },
+    "10903": {
+      "name": "Upper Murray exc. Albury",
+      "population": 43313
+    },
+    "11001": {
+      "name": "Armidale",
+      "population": 37766
+    },
+    "11002": {
+      "name": "Inverell - Tenterfield",
+      "population": 38779
+    },
+    "11003": {
+      "name": "Moree - Narrabri",
+      "population": 25037
+    },
+    "11004": {
+      "name": "Tamworth - Gunnedah",
+      "population": 85390
+    },
+    "11101": {
+      "name": "Lake Macquarie - East",
+      "population": 126606
+    },
+    "11102": {
+      "name": "Lake Macquarie - West",
+      "population": 85113
+    },
+    "11103": {
+      "name": "Newcastle",
+      "population": 179587
+    },
+    "11201": {
+      "name": "Richmond Valley - Coastal",
+      "population": 87664
+    },
+    "11202": {
+      "name": "Richmond Valley - Hinterland",
+      "population": 71940
+    },
+    "11203": {
+      "name": "Tweed Valley",
+      "population": 97216
+    },
+    "11301": {
+      "name": "Griffith - Murrumbidgee (West)",
+      "population": 49883
+    },
+    "11302": {
+      "name": "Tumut - Tumbarumba",
+      "population": 14933
+    },
+    "11303": {
+      "name": "Wagga Wagga",
+      "population": 99471
+    },
+    "11401": {
+      "name": "Shoalhaven",
+      "population": 108349
+    },
+    "11402": {
+      "name": "Southern Highlands",
+      "population": 52459
+    },
+    "11501": {
+      "name": "Baulkham Hills",
+      "population": 155277
+    },
+    "11502": {
+      "name": "Dural - Wisemans Ferry",
+      "population": 28034
+    },
+    "11503": {
+      "name": "Hawkesbury",
+      "population": 25154
+    },
+    "11504": {
+      "name": "Rouse Hill - McGraths Hill",
+      "population": 56966
+    },
+    "11601": {
+      "name": "Blacktown",
+      "population": 143598
+    },
+    "11602": {
+      "name": "Blacktown - North",
+      "population": 143785
+    },
+    "11603": {
+      "name": "Mount Druitt",
+      "population": 116792
+    },
+    "11701": {
+      "name": "Botany",
+      "population": 59245
+    },
+    "11702": {
+      "name": "Marrickville - Sydenham - Petersham",
+      "population": 55133
+    },
+    "11703": {
+      "name": "Sydney Inner City",
+      "population": 220973
+    },
+    "11801": {
+      "name": "Eastern Suburbs - North",
+      "population": 128419
+    },
+    "11802": {
+      "name": "Eastern Suburbs - South",
+      "population": 135210
+    },
+    "11901": {
+      "name": "Bankstown",
+      "population": 186879
+    },
+    "11902": {
+      "name": "Canterbury",
+      "population": 141730
+    },
+    "11903": {
+      "name": "Hurstville",
+      "population": 132318
+    },
+    "11904": {
+      "name": "Kogarah - Rockdale",
+      "population": 146589
+    },
+    "12001": {
+      "name": "Canada Bay",
+      "population": 87181
+    },
+    "12002": {
+      "name": "Leichhardt",
+      "population": 56653
+    },
+    "12003": {
+      "name": "Strathfield - Burwood - Ashfield",
+      "population": 162611
+    },
+    "12101": {
+      "name": "Chatswood - Lane Cove",
+      "population": 118072
+    },
+    "12102": {
+      "name": "Hornsby",
+      "population": 87691
+    },
+    "12103": {
+      "name": "Ku-ring-gai",
+      "population": 124990
+    },
+    "12104": {
+      "name": "North Sydney - Mosman",
+      "population": 95419
+    },
+    "12201": {
+      "name": "Manly",
+      "population": 43590
+    },
+    "12202": {
+      "name": "Pittwater",
+      "population": 63581
+    },
+    "12203": {
+      "name": "Warringah",
+      "population": 157396
+    },
+    "12301": {
+      "name": "Camden",
+      "population": 73973
+    },
+    "12302": {
+      "name": "Campbelltown (NSW)",
+      "population": 179152
+    },
+    "12303": {
+      "name": "Wollondilly",
+      "population": 46026
+    },
+    "12401": {
+      "name": "Blue Mountains",
+      "population": 78199
+    },
+    "12402": {
+      "name": "Blue Mountains - South",
+      "population": 7
+    },
+    "12403": {
+      "name": "Penrith",
+      "population": 160496
+    },
+    "12404": {
+      "name": "Richmond - Windsor",
+      "population": 38270
+    },
+    "12405": {
+      "name": "St Marys",
+      "population": 57150
+    },
+    "12501": {
+      "name": "Auburn",
+      "population": 104476
+    },
+    "12502": {
+      "name": "Carlingford",
+      "population": 74358
+    },
+    "12503": {
+      "name": "Merrylands - Guildford",
+      "population": 164798
+    },
+    "12504": {
+      "name": "Parramatta",
+      "population": 153321
+    },
+    "12601": {
+      "name": "Pennant Hills - Epping",
+      "population": 55057
+    },
+    "12602": {
+      "name": "Ryde - Hunters Hill",
+      "population": 147944
+    },
+    "12701": {
+      "name": "Bringelly - Green Valley",
+      "population": 143807
+    },
+    "12702": {
+      "name": "Fairfield",
+      "population": 195725
+    },
+    "12703": {
+      "name": "Liverpool",
+      "population": 136871
+    },
+    "12801": {
+      "name": "Cronulla - Miranda - Caringbah",
+      "population": 118252
+    },
+    "12802": {
+      "name": "Sutherland - Menai - Heathcote",
+      "population": 112140
+    },
+    "20101": {
+      "name": "Ballarat",
+      "population": 115935
+    },
+    "20102": {
+      "name": "Creswick - Daylesford - Ballan",
+      "population": 30788
+    },
+    "20103": {
+      "name": "Maryborough - Pyrenees",
+      "population": 26588
+    },
+    "20201": {
+      "name": "Bendigo",
+      "population": 102940
+    },
+    "20202": {
+      "name": "Heathcote - Castlemaine - Kyneton",
+      "population": 52185
+    },
+    "20203": {
+      "name": "Loddon - Elmore",
+      "population": 12141
+    },
+    "20301": {
+      "name": "Barwon - West",
+      "population": 22397
+    },
+    "20302": {
+      "name": "Geelong",
+      "population": 212023
+    },
+    "20303": {
+      "name": "Surf Coast - Bellarine Peninsula",
+      "population": 93195
+    },
+    "20401": {
+      "name": "Upper Goulburn Valley",
+      "population": 59693
+    },
+    "20402": {
+      "name": "Wangaratta - Benalla",
+      "population": 48279
+    },
+    "20403": {
+      "name": "Wodonga - Alpine",
+      "population": 76236
+    },
+    "20501": {
+      "name": "Baw Baw",
+      "population": 57761
+    },
+    "20502": {
+      "name": "Gippsland - East",
+      "population": 48588
+    },
+    "20503": {
+      "name": "Gippsland - South West",
+      "population": 71238
+    },
+    "20504": {
+      "name": "Latrobe Valley",
+      "population": 76967
+    },
+    "20505": {
+      "name": "Wellington",
+      "population": 45358
+    },
+    "20601": {
+      "name": "Brunswick - Coburg",
+      "population": 91068
+    },
+    "20602": {
+      "name": "Darebin - South",
+      "population": 53875
+    },
+    "20603": {
+      "name": "Essendon",
+      "population": 69421
+    },
+    "20604": {
+      "name": "Melbourne City",
+      "population": 153091
+    },
+    "20605": {
+      "name": "Port Phillip",
+      "population": 103458
+    },
+    "20606": {
+      "name": "Stonnington - West",
+      "population": 63519
+    },
+    "20607": {
+      "name": "Yarra",
+      "population": 92481
+    },
+    "20701": {
+      "name": "Boroondara",
+      "population": 169789
+    },
+    "20702": {
+      "name": "Manningham - West",
+      "population": 99303
+    },
+    "20703": {
+      "name": "Whitehorse - West",
+      "population": 108426
+    },
+    "20801": {
+      "name": "Bayside",
+      "population": 102328
+    },
+    "20802": {
+      "name": "Glen Eira",
+      "population": 158280
+    },
+    "20803": {
+      "name": "Kingston",
+      "population": 123786
+    },
+    "20804": {
+      "name": "Stonnington - East",
+      "population": 42671
+    },
+    "20901": {
+      "name": "Banyule",
+      "population": 127370
+    },
+    "20902": {
+      "name": "Darebin - North",
+      "population": 96421
+    },
+    "20903": {
+      "name": "Nillumbik - Kinglake",
+      "population": 67687
+    },
+    "20904": {
+      "name": "Whittlesea - Wallan",
+      "population": 254784
+    },
+    "21001": {
+      "name": "Keilor",
+      "population": 62124
+    },
+    "21002": {
+      "name": "Macedon Ranges",
+      "population": 33213
+    },
+    "21003": {
+      "name": "Moreland - North",
+      "population": 81472
+    },
+    "21004": {
+      "name": "Sunbury",
+      "population": 45464
+    },
+    "21005": {
+      "name": "Tullamarine - Broadmeadows",
+      "population": 206755
+    },
+    "21101": {
+      "name": "Knox",
+      "population": 160520
+    },
+    "21102": {
+      "name": "Manningham - East",
+      "population": 26591
+    },
+    "21103": {
+      "name": "Maroondah",
+      "population": 115610
+    },
+    "21104": {
+      "name": "Whitehorse - East",
+      "population": 63435
+    },
+    "21105": {
+      "name": "Yarra Ranges",
+      "population": 156602
+    },
+    "21201": {
+      "name": "Cardinia",
+      "population": 119721
+    },
+    "21202": {
+      "name": "Casey - North",
+      "population": 138661
+    },
+    "21203": {
+      "name": "Casey - South",
+      "population": 230897
+    },
+    "21204": {
+      "name": "Dandenong",
+      "population": 195868
+    },
+    "21205": {
+      "name": "Monash",
+      "population": 185251
+    },
+    "21301": {
+      "name": "Brimbank",
+      "population": 188038
+    },
+    "21302": {
+      "name": "Hobsons Bay",
+      "population": 87456
+    },
+    "21303": {
+      "name": "Maribyrnong",
+      "population": 86385
+    },
+    "21304": {
+      "name": "Melton - Bacchus Marsh",
+      "population": 201101
+    },
+    "21305": {
+      "name": "Wyndham",
+      "population": 301133
+    },
+    "21401": {
+      "name": "Frankston",
+      "population": 140824
+    },
+    "21402": {
+      "name": "Mornington Peninsula",
+      "population": 170440
+    },
+    "21501": {
+      "name": "Grampians",
+      "population": 60060
+    },
+    "21502": {
+      "name": "Mildura",
+      "population": 56966
+    },
+    "21503": {
+      "name": "Murray River - Swan Hill",
+      "population": 38128
+    },
+    "21601": {
+      "name": "Campaspe",
+      "population": 38714
+    },
+    "21602": {
+      "name": "Moira",
+      "population": 30367
+    },
+    "21603": {
+      "name": "Shepparton",
+      "population": 68325
+    },
+    "21701": {
+      "name": "Glenelg - Southern Grampians",
+      "population": 36607
+    },
+    "21703": {
+      "name": "Colac - Corangamite",
+      "population": 38299
+    },
+    "21704": {
+      "name": "Warrnambool",
+      "population": 52725
+    },
+    "30101": {
+      "name": "Capalaba",
+      "population": 74516
+    },
+    "30102": {
+      "name": "Cleveland - Stradbroke",
+      "population": 94836
+    },
+    "30103": {
+      "name": "Wynnum - Manly",
+      "population": 74093
+    },
+    "30201": {
+      "name": "Bald Hills - Everton Park",
+      "population": 46713
+    },
+    "30202": {
+      "name": "Chermside",
+      "population": 75363
+    },
+    "30203": {
+      "name": "Nundah",
+      "population": 43628
+    },
+    "30204": {
+      "name": "Sandgate",
+      "population": 62078
+    },
+    "30301": {
+      "name": "Carindale",
+      "population": 55098
+    },
+    "30302": {
+      "name": "Holland Park - Yeronga",
+      "population": 80735
+    },
+    "30303": {
+      "name": "Mt Gravatt",
+      "population": 80648
+    },
+    "30304": {
+      "name": "Nathan",
+      "population": 40480
+    },
+    "30305": {
+      "name": "Rocklea - Acacia Ridge",
+      "population": 69112
+    },
+    "30306": {
+      "name": "Sunnybank",
+      "population": 51086
+    },
+    "30401": {
+      "name": "Centenary",
+      "population": 33397
+    },
+    "30402": {
+      "name": "Kenmore - Brookfield - Moggill",
+      "population": 48311
+    },
+    "30403": {
+      "name": "Sherwood - Indooroopilly",
+      "population": 55195
+    },
+    "30404": {
+      "name": "The Gap - Enoggera",
+      "population": 55021
+    },
+    "30501": {
+      "name": "Brisbane Inner",
+      "population": 89393
+    },
+    "30502": {
+      "name": "Brisbane Inner - East",
+      "population": 45079
+    },
+    "30503": {
+      "name": "Brisbane Inner - North",
+      "population": 101823
+    },
+    "30504": {
+      "name": "Brisbane Inner - West",
+      "population": 61361
+    },
+    "30601": {
+      "name": "Cairns - North",
+      "population": 58571
+    },
+    "30602": {
+      "name": "Cairns - South",
+      "population": 106973
+    },
+    "30603": {
+      "name": "Innisfail - Cassowary Coast",
+      "population": 35814
+    },
+    "30604": {
+      "name": "Port Douglas - Daintree",
+      "population": 12356
+    },
+    "30605": {
+      "name": "Tablelands (East) - Kuranda",
+      "population": 43351
+    },
+    "30701": {
+      "name": "Darling Downs (West) - Maranoa",
+      "population": 44716
+    },
+    "30702": {
+      "name": "Darling Downs - East",
+      "population": 43418
+    },
+    "30703": {
+      "name": "Granite Belt",
+      "population": 41902
+    },
+    "30801": {
+      "name": "Central Highlands (Qld)",
+      "population": 29338
+    },
+    "30803": {
+      "name": "Rockhampton",
+      "population": 122759
+    },
+    "30804": {
+      "name": "Biloela",
+      "population": 14657
+    },
+    "30805": {
+      "name": "Gladstone",
+      "population": 64275
+    },
+    "30901": {
+      "name": "Broadbeach - Burleigh",
+      "population": 67242
+    },
+    "30902": {
+      "name": "Coolangatta",
+      "population": 58186
+    },
+    "30903": {
+      "name": "Gold Coast - North",
+      "population": 70091
+    },
+    "30904": {
+      "name": "Gold Coast Hinterland",
+      "population": 20347
+    },
+    "30905": {
+      "name": "Mudgeeraba - Tallebudgera",
+      "population": 36504
+    },
+    "30906": {
+      "name": "Nerang",
+      "population": 70687
+    },
+    "30907": {
+      "name": "Ormeau - Oxenford",
+      "population": 160692
+    },
+    "30908": {
+      "name": "Robina",
+      "population": 54628
+    },
+    "30909": {
+      "name": "Southport",
+      "population": 65391
+    },
+    "30910": {
+      "name": "Surfers Paradise",
+      "population": 45723
+    },
+    "31001": {
+      "name": "Forest Lake - Oxley",
+      "population": 80183
+    },
+    "31002": {
+      "name": "Ipswich Hinterland",
+      "population": 68411
+    },
+    "31003": {
+      "name": "Ipswich Inner",
+      "population": 117812
+    },
+    "31004": {
+      "name": "Springfield - Redbank",
+      "population": 107223
+    },
+    "31101": {
+      "name": "Beaudesert",
+      "population": 14913
+    },
+    "31102": {
+      "name": "Beenleigh",
+      "population": 46995
+    },
+    "31103": {
+      "name": "Browns Plains",
+      "population": 95375
+    },
+    "31104": {
+      "name": "Jimboomba",
+      "population": 62626
+    },
+    "31105": {
+      "name": "Loganlea - Carbrook",
+      "population": 65408
+    },
+    "31106": {
+      "name": "Springwood - Kingston",
+      "population": 80269
+    },
+    "31201": {
+      "name": "Bowen Basin - North",
+      "population": 36363
+    },
+    "31202": {
+      "name": "Mackay",
+      "population": 123148
+    },
+    "31203": {
+      "name": "Whitsunday",
+      "population": 23698
+    },
+    "31301": {
+      "name": "Bribie - Beachmere",
+      "population": 37510
+    },
+    "31302": {
+      "name": "Caboolture",
+      "population": 81214
+    },
+    "31303": {
+      "name": "Caboolture Hinterland",
+      "population": 15108
+    },
+    "31304": {
+      "name": "Narangba - Burpengary",
+      "population": 70466
+    },
+    "31305": {
+      "name": "Redcliffe",
+      "population": 64679
+    },
+    "31401": {
+      "name": "The Hills District",
+      "population": 91313
+    },
+    "31402": {
+      "name": "North Lakes",
+      "population": 89816
+    },
+    "31403": {
+      "name": "Strathpine",
+      "population": 40427
+    },
+    "31501": {
+      "name": "Far North",
+      "population": 33057
+    },
+    "31502": {
+      "name": "Outback - North",
+      "population": 31131
+    },
+    "31503": {
+      "name": "Outback - South",
+      "population": 17417
+    },
+    "31601": {
+      "name": "Buderim",
+      "population": 59782
+    },
+    "31602": {
+      "name": "Caloundra",
+      "population": 97297
+    },
+    "31603": {
+      "name": "Maroochy",
+      "population": 64537
+    },
+    "31605": {
+      "name": "Noosa",
+      "population": 47074
+    },
+    "31606": {
+      "name": "Sunshine Coast Hinterland",
+      "population": 59676
+    },
+    "31607": {
+      "name": "Nambour",
+      "population": 50618
+    },
+    "31608": {
+      "name": "Noosa Hinterland",
+      "population": 24524
+    },
+    "31701": {
+      "name": "Toowoomba",
+      "population": 164082
+    },
+    "31801": {
+      "name": "Charters Towers - Ayr - Ingham",
+      "population": 41877
+    },
+    "31802": {
+      "name": "Townsville",
+      "population": 195506
+    },
+    "31901": {
+      "name": "Bundaberg",
+      "population": 94646
+    },
+    "31902": {
+      "name": "Burnett",
+      "population": 50134
+    },
+    "31903": {
+      "name": "Gympie - Cooloola",
+      "population": 53749
+    },
+    "31904": {
+      "name": "Hervey Bay",
+      "population": 64045
+    },
+    "31905": {
+      "name": "Maryborough",
+      "population": 48118
+    },
+    "40101": {
+      "name": "Adelaide City",
+      "population": 25522
+    },
+    "40102": {
+      "name": "Adelaide Hills",
+      "population": 80493
+    },
+    "40103": {
+      "name": "Burnside",
+      "population": 46425
+    },
+    "40104": {
+      "name": "Campbelltown (SA)",
+      "population": 55832
+    },
+    "40105": {
+      "name": "Norwood - Payneham - St Peters",
+      "population": 37823
+    },
+    "40106": {
+      "name": "Prospect - Walkerville",
+      "population": 30573
+    },
+    "40107": {
+      "name": "Unley",
+      "population": 39061
+    },
+    "40201": {
+      "name": "Gawler - Two Wells",
+      "population": 38132
+    },
+    "40202": {
+      "name": "Playford",
+      "population": 101299
+    },
+    "40203": {
+      "name": "Port Adelaide - East",
+      "population": 77963
+    },
+    "40204": {
+      "name": "Salisbury",
+      "population": 146249
+    },
+    "40205": {
+      "name": "Tea Tree Gully",
+      "population": 97491
+    },
+    "40301": {
+      "name": "Holdfast Bay",
+      "population": 36011
+    },
+    "40302": {
+      "name": "Marion",
+      "population": 97231
+    },
+    "40303": {
+      "name": "Mitcham",
+      "population": 66822
+    },
+    "40304": {
+      "name": "Onkaparinga",
+      "population": 177935
+    },
+    "40401": {
+      "name": "Charles Sturt",
+      "population": 119680
+    },
+    "40402": {
+      "name": "Port Adelaide - West",
+      "population": 61528
+    },
+    "40403": {
+      "name": "West Torrens",
+      "population": 65802
+    },
+    "40501": {
+      "name": "Barossa",
+      "population": 38791
+    },
+    "40502": {
+      "name": "Lower North",
+      "population": 23149
+    },
+    "40503": {
+      "name": "Mid North",
+      "population": 27831
+    },
+    "40504": {
+      "name": "Yorke Peninsula",
+      "population": 27176
+    },
+    "40601": {
+      "name": "Eyre Peninsula and South West",
+      "population": 58861
+    },
+    "40602": {
+      "name": "Outback - North and East",
+      "population": 26699
+    },
+    "40701": {
+      "name": "Fleurieu - Kangaroo Island",
+      "population": 56616
+    },
+    "40702": {
+      "name": "Limestone Coast",
+      "population": 68531
+    },
+    "40703": {
+      "name": "Murray and Mallee",
+      "population": 73075
+    },
+    "50101": {
+      "name": "Augusta - Margaret River - Busselton",
+      "population": 59209
+    },
+    "50102": {
+      "name": "Bunbury",
+      "population": 111276
+    },
+    "50103": {
+      "name": "Manjimup",
+      "population": 24491
+    },
+    "50201": {
+      "name": "Mandurah",
+      "population": 111295
+    },
+    "50301": {
+      "name": "Cottesloe - Claremont",
+      "population": 74147
+    },
+    "50302": {
+      "name": "Perth City",
+      "population": 114608
+    },
+    "50401": {
+      "name": "Bayswater - Bassendean",
+      "population": 87492
+    },
+    "50402": {
+      "name": "Mundaring",
+      "population": 45323
+    },
+    "50403": {
+      "name": "Swan",
+      "population": 153876
+    },
+    "50501": {
+      "name": "Joondalup",
+      "population": 165701
+    },
+    "50502": {
+      "name": "Stirling",
+      "population": 215487
+    },
+    "50503": {
+      "name": "Wanneroo",
+      "population": 215800
+    },
+    "50601": {
+      "name": "Armadale",
+      "population": 97644
+    },
+    "50602": {
+      "name": "Belmont - Victoria Park",
+      "population": 78173
+    },
+    "50603": {
+      "name": "Canning",
+      "population": 102728
+    },
+    "50604": {
+      "name": "Gosnells",
+      "population": 131366
+    },
+    "50605": {
+      "name": "Kalamunda",
+      "population": 60804
+    },
+    "50606": {
+      "name": "Serpentine - Jarrahdale",
+      "population": 33418
+    },
+    "50607": {
+      "name": "South Perth",
+      "population": 45002
+    },
+    "50701": {
+      "name": "Cockburn",
+      "population": 119882
+    },
+    "50702": {
+      "name": "Fremantle",
+      "population": 41348
+    },
+    "50703": {
+      "name": "Kwinana",
+      "population": 47660
+    },
+    "50704": {
+      "name": "Melville",
+      "population": 109500
+    },
+    "50705": {
+      "name": "Rockingham",
+      "population": 140584
+    },
+    "50901": {
+      "name": "Albany",
+      "population": 63947
+    },
+    "50902": {
+      "name": "Wheat Belt - North",
+      "population": 57730
+    },
+    "50903": {
+      "name": "Wheat Belt - South",
+      "population": 19940
+    },
+    "51001": {
+      "name": "Kimberley",
+      "population": 38706
+    },
+    "51002": {
+      "name": "East Pilbara",
+      "population": 27044
+    },
+    "51003": {
+      "name": "West Pilbara",
+      "population": 31193
+    },
+    "51101": {
+      "name": "Esperance",
+      "population": 16557
+    },
+    "51102": {
+      "name": "Gascoyne",
+      "population": 9971
+    },
+    "51103": {
+      "name": "Goldfields",
+      "population": 40200
+    },
+    "51104": {
+      "name": "Mid West",
+      "population": 57263
+    },
+    "60101": {
+      "name": "Brighton",
+      "population": 19862
+    },
+    "60102": {
+      "name": "Hobart - North East",
+      "population": 59934
+    },
+    "60103": {
+      "name": "Hobart - North West",
+      "population": 58845
+    },
+    "60104": {
+      "name": "Hobart - South and West",
+      "population": 37262
+    },
+    "60105": {
+      "name": "Hobart Inner",
+      "population": 56041
+    },
+    "60106": {
+      "name": "Sorell - Dodges Ferry",
+      "population": 18773
+    },
+    "60201": {
+      "name": "Launceston",
+      "population": 89511
+    },
+    "60202": {
+      "name": "Meander Valley - West Tamar",
+      "population": 24745
+    },
+    "60203": {
+      "name": "North East",
+      "population": 40470
+    },
+    "60301": {
+      "name": "Central Highlands (Tas.)",
+      "population": 12747
+    },
+    "60302": {
+      "name": "Huon - Bruny Island",
+      "population": 22312
+    },
+    "60303": {
+      "name": "South East Coast",
+      "population": 7731
+    },
+    "60401": {
+      "name": "Burnie - Ulverstone",
+      "population": 51189
+    },
+    "60402": {
+      "name": "Devonport",
+      "population": 49544
+    },
+    "60403": {
+      "name": "West Coast",
+      "population": 18273
+    },
+    "70101": {
+      "name": "Darwin City",
+      "population": 28507
+    },
+    "70102": {
+      "name": "Darwin Suburbs",
+      "population": 57630
+    },
+    "70103": {
+      "name": "Litchfield",
+      "population": 22429
+    },
+    "70104": {
+      "name": "Palmerston",
+      "population": 39405
+    },
+    "70201": {
+      "name": "Alice Springs",
+      "population": 40558
+    },
+    "70202": {
+      "name": "Barkly",
+      "population": 6006
+    },
+    "70203": {
+      "name": "Daly - Tiwi - West Arnhem",
+      "population": 18000
+    },
+    "70204": {
+      "name": "East Arnhem",
+      "population": 14507
+    },
+    "70205": {
+      "name": "Katherine",
+      "population": 21109
+    },
+    "80101": {
+      "name": "Belconnen",
+      "population": 105623
+    },
+    "80103": {
+      "name": "Canberra East",
+      "population": 1928
+    },
+    "80104": {
+      "name": "Gungahlin",
+      "population": 87653
+    },
+    "80105": {
+      "name": "North Canberra",
+      "population": 61160
+    },
+    "80106": {
+      "name": "South Canberra",
+      "population": 31498
+    },
+    "80107": {
+      "name": "Tuggeranong",
+      "population": 89054
+    },
+    "80108": {
+      "name": "Weston Creek",
+      "population": 24487
+    },
+    "80109": {
+      "name": "Woden Valley",
+      "population": 39079
+    },
+    "80110": {
+      "name": "Molonglo",
+      "population": 11404
+    },
+    "80111": {
+      "name": "Uriarra - Namadgi",
+      "population": 622
+    },
+    "90101": {
+      "name": "Christmas Island",
+      "population": 1717
+    },
+    "90102": {
+      "name": "Cocos (Keeling) Islands",
+      "population": 603
+    },
+    "90103": {
+      "name": "Jervis Bay",
+      "population": 309
+    },
+    "90104": {
+      "name": "Norfolk Island",
+      "population": 2221
+    }
+  },
+  "2022": {
+    "10102": {
+      "name": "Queanbeyan",
+      "population": 65769
+    },
+    "10103": {
+      "name": "Snowy Mountains",
+      "population": 20867
+    },
+    "10104": {
+      "name": "South Coast",
+      "population": 76980
+    },
+    "10105": {
+      "name": "Goulburn - Mulwaree",
+      "population": 38784
+    },
+    "10106": {
+      "name": "Young - Yass",
+      "population": 38237
+    },
+    "10201": {
+      "name": "Gosford",
+      "population": 178868
+    },
+    "10202": {
+      "name": "Wyong",
+      "population": 170290
+    },
+    "10301": {
+      "name": "Bathurst",
+      "population": 49698
+    },
+    "10302": {
+      "name": "Lachlan Valley",
+      "population": 54650
+    },
+    "10303": {
+      "name": "Lithgow - Mudgee",
+      "population": 47912
+    },
+    "10304": {
+      "name": "Orange",
+      "population": 61860
+    },
+    "10401": {
+      "name": "Clarence Valley",
+      "population": 54217
+    },
+    "10402": {
+      "name": "Coffs Harbour",
+      "population": 93428
+    },
+    "10501": {
+      "name": "Bourke - Cobar - Coonamble",
+      "population": 22068
+    },
+    "10502": {
+      "name": "Broken Hill and Far West",
+      "population": 19862
+    },
+    "10503": {
+      "name": "Dubbo",
+      "population": 75185
+    },
+    "10601": {
+      "name": "Lower Hunter",
+      "population": 100853
+    },
+    "10602": {
+      "name": "Maitland",
+      "population": 90375
+    },
+    "10603": {
+      "name": "Port Stephens",
+      "population": 77505
+    },
+    "10604": {
+      "name": "Upper Hunter",
+      "population": 30829
+    },
+    "10701": {
+      "name": "Dapto - Port Kembla",
+      "population": 80670
+    },
+    "10702": {
+      "name": "Illawarra Catchment Reserve",
+      "population": 5
+    },
+    "10703": {
+      "name": "Kiama - Shellharbour",
+      "population": 101193
+    },
+    "10704": {
+      "name": "Wollongong",
+      "population": 135802
+    },
+    "10801": {
+      "name": "Great Lakes",
+      "population": 33354
+    },
+    "10802": {
+      "name": "Kempsey - Nambucca",
+      "population": 51846
+    },
+    "10803": {
+      "name": "Lord Howe Island",
+      "population": 450
+    },
+    "10804": {
+      "name": "Port Macquarie",
+      "population": 88280
+    },
+    "10805": {
+      "name": "Taree - Gloucester",
+      "population": 57947
+    },
+    "10901": {
+      "name": "Albury",
+      "population": 67740
+    },
+    "10902": {
+      "name": "Lower Murray",
+      "population": 13120
+    },
+    "10903": {
+      "name": "Upper Murray exc. Albury",
+      "population": 43693
+    },
+    "11001": {
+      "name": "Armidale",
+      "population": 37778
+    },
+    "11002": {
+      "name": "Inverell - Tenterfield",
+      "population": 38957
+    },
+    "11003": {
+      "name": "Moree - Narrabri",
+      "population": 24858
+    },
+    "11004": {
+      "name": "Tamworth - Gunnedah",
+      "population": 86321
+    },
+    "11101": {
+      "name": "Lake Macquarie - East",
+      "population": 127321
+    },
+    "11102": {
+      "name": "Lake Macquarie - West",
+      "population": 86920
+    },
+    "11103": {
+      "name": "Newcastle",
+      "population": 182078
+    },
+    "11201": {
+      "name": "Richmond Valley - Coastal",
+      "population": 88799
+    },
+    "11202": {
+      "name": "Richmond Valley - Hinterland",
+      "population": 71990
+    },
+    "11203": {
+      "name": "Tweed Valley",
+      "population": 97966
+    },
+    "11301": {
+      "name": "Griffith - Murrumbidgee (West)",
+      "population": 49607
+    },
+    "11302": {
+      "name": "Tumut - Tumbarumba",
+      "population": 14945
+    },
+    "11303": {
+      "name": "Wagga Wagga",
+      "population": 100028
+    },
+    "11401": {
+      "name": "Shoalhaven",
+      "population": 109363
+    },
+    "11402": {
+      "name": "Southern Highlands",
+      "population": 52800
+    },
+    "11501": {
+      "name": "Baulkham Hills",
+      "population": 155374
+    },
+    "11502": {
+      "name": "Dural - Wisemans Ferry",
+      "population": 28008
+    },
+    "11503": {
+      "name": "Hawkesbury",
+      "population": 25130
+    },
+    "11504": {
+      "name": "Rouse Hill - McGraths Hill",
+      "population": 62992
+    },
+    "11601": {
+      "name": "Blacktown",
+      "population": 143628
+    },
+    "11602": {
+      "name": "Blacktown - North",
+      "population": 155305
+    },
+    "11603": {
+      "name": "Mount Druitt",
+      "population": 116243
+    },
+    "11701": {
+      "name": "Botany",
+      "population": 60892
+    },
+    "11702": {
+      "name": "Marrickville - Sydenham - Petersham",
+      "population": 54913
+    },
+    "11703": {
+      "name": "Sydney Inner City",
+      "population": 224514
+    },
+    "11801": {
+      "name": "Eastern Suburbs - North",
+      "population": 127943
+    },
+    "11802": {
+      "name": "Eastern Suburbs - South",
+      "population": 135741
+    },
+    "11901": {
+      "name": "Bankstown",
+      "population": 187191
+    },
+    "11902": {
+      "name": "Canterbury",
+      "population": 141126
+    },
+    "11903": {
+      "name": "Hurstville",
+      "population": 132345
+    },
+    "11904": {
+      "name": "Kogarah - Rockdale",
+      "population": 147048
+    },
+    "12001": {
+      "name": "Canada Bay",
+      "population": 86738
+    },
+    "12002": {
+      "name": "Leichhardt",
+      "population": 56277
+    },
+    "12003": {
+      "name": "Strathfield - Burwood - Ashfield",
+      "population": 163127
+    },
+    "12101": {
+      "name": "Chatswood - Lane Cove",
+      "population": 118130
+    },
+    "12102": {
+      "name": "Hornsby",
+      "population": 87903
+    },
+    "12103": {
+      "name": "Ku-ring-gai",
+      "population": 124500
+    },
+    "12104": {
+      "name": "North Sydney - Mosman",
+      "population": 94887
+    },
+    "12201": {
+      "name": "Manly",
+      "population": 43342
+    },
+    "12202": {
+      "name": "Pittwater",
+      "population": 63221
+    },
+    "12203": {
+      "name": "Warringah",
+      "population": 156777
+    },
+    "12301": {
+      "name": "Camden",
+      "population": 74972
+    },
+    "12302": {
+      "name": "Campbelltown (NSW)",
+      "population": 181889
+    },
+    "12303": {
+      "name": "Wollondilly",
+      "population": 47307
+    },
+    "12401": {
+      "name": "Blue Mountains",
+      "population": 77768
+    },
+    "12402": {
+      "name": "Blue Mountains - South",
+      "population": 7
+    },
+    "12403": {
+      "name": "Penrith",
+      "population": 162639
+    },
+    "12404": {
+      "name": "Richmond - Windsor",
+      "population": 38351
+    },
+    "12405": {
+      "name": "St Marys",
+      "population": 57366
+    },
+    "12501": {
+      "name": "Auburn",
+      "population": 105477
+    },
+    "12502": {
+      "name": "Carlingford",
+      "population": 74980
+    },
+    "12503": {
+      "name": "Merrylands - Guildford",
+      "population": 165216
+    },
+    "12504": {
+      "name": "Parramatta",
+      "population": 153118
+    },
+    "12601": {
+      "name": "Pennant Hills - Epping",
+      "population": 55373
+    },
+    "12602": {
+      "name": "Ryde - Hunters Hill",
+      "population": 149636
+    },
+    "12701": {
+      "name": "Bringelly - Green Valley",
+      "population": 152878
+    },
+    "12702": {
+      "name": "Fairfield",
+      "population": 193442
+    },
+    "12703": {
+      "name": "Liverpool",
+      "population": 139624
+    },
+    "12801": {
+      "name": "Cronulla - Miranda - Caringbah",
+      "population": 119113
+    },
+    "12802": {
+      "name": "Sutherland - Menai - Heathcote",
+      "population": 112185
+    },
+    "20101": {
+      "name": "Ballarat",
+      "population": 118484
+    },
+    "20102": {
+      "name": "Creswick - Daylesford - Ballan",
+      "population": 30892
+    },
+    "20103": {
+      "name": "Maryborough - Pyrenees",
+      "population": 26785
+    },
+    "20201": {
+      "name": "Bendigo",
+      "population": 103871
+    },
+    "20202": {
+      "name": "Heathcote - Castlemaine - Kyneton",
+      "population": 52930
+    },
+    "20203": {
+      "name": "Loddon - Elmore",
+      "population": 12296
+    },
+    "20301": {
+      "name": "Barwon - West",
+      "population": 22879
+    },
+    "20302": {
+      "name": "Geelong",
+      "population": 215372
+    },
+    "20303": {
+      "name": "Surf Coast - Bellarine Peninsula",
+      "population": 96432
+    },
+    "20401": {
+      "name": "Upper Goulburn Valley",
+      "population": 60437
+    },
+    "20402": {
+      "name": "Wangaratta - Benalla",
+      "population": 48512
+    },
+    "20403": {
+      "name": "Wodonga - Alpine",
+      "population": 76926
+    },
+    "20501": {
+      "name": "Baw Baw",
+      "population": 59414
+    },
+    "20502": {
+      "name": "Gippsland - East",
+      "population": 49060
+    },
+    "20503": {
+      "name": "Gippsland - South West",
+      "population": 72693
+    },
+    "20504": {
+      "name": "Latrobe Valley",
+      "population": 77560
+    },
+    "20505": {
+      "name": "Wellington",
+      "population": 45697
+    },
+    "20601": {
+      "name": "Brunswick - Coburg",
+      "population": 92141
+    },
+    "20602": {
+      "name": "Darebin - South",
+      "population": 53981
+    },
+    "20603": {
+      "name": "Essendon",
+      "population": 69463
+    },
+    "20604": {
+      "name": "Melbourne City",
+      "population": 160314
+    },
+    "20605": {
+      "name": "Port Phillip",
+      "population": 104111
+    },
+    "20606": {
+      "name": "Stonnington - West",
+      "population": 63550
+    },
+    "20607": {
+      "name": "Yarra",
+      "population": 93345
+    },
+    "20701": {
+      "name": "Boroondara",
+      "population": 169632
+    },
+    "20702": {
+      "name": "Manningham - West",
+      "population": 100139
+    },
+    "20703": {
+      "name": "Whitehorse - West",
+      "population": 109860
+    },
+    "20801": {
+      "name": "Bayside",
+      "population": 102241
+    },
+    "20802": {
+      "name": "Glen Eira",
+      "population": 159488
+    },
+    "20803": {
+      "name": "Kingston",
+      "population": 124101
+    },
+    "20804": {
+      "name": "Stonnington - East",
+      "population": 42974
+    },
+    "20901": {
+      "name": "Banyule",
+      "population": 127427
+    },
+    "20902": {
+      "name": "Darebin - North",
+      "population": 96624
+    },
+    "20903": {
+      "name": "Nillumbik - Kinglake",
+      "population": 67375
+    },
+    "20904": {
+      "name": "Whittlesea - Wallan",
+      "population": 261823
+    },
+    "21001": {
+      "name": "Keilor",
+      "population": 62196
+    },
+    "21002": {
+      "name": "Macedon Ranges",
+      "population": 33666
+    },
+    "21003": {
+      "name": "Moreland - North",
+      "population": 81792
+    },
+    "21004": {
+      "name": "Sunbury",
+      "population": 46317
+    },
+    "21005": {
+      "name": "Tullamarine - Broadmeadows",
+      "population": 212702
+    },
+    "21101": {
+      "name": "Knox",
+      "population": 159590
+    },
+    "21102": {
+      "name": "Manningham - East",
+      "population": 26495
+    },
+    "21103": {
+      "name": "Maroondah",
+      "population": 115294
+    },
+    "21104": {
+      "name": "Whitehorse - East",
+      "population": 63525
+    },
+    "21105": {
+      "name": "Yarra Ranges",
+      "population": 156643
+    },
+    "21201": {
+      "name": "Cardinia",
+      "population": 123343
+    },
+    "21202": {
+      "name": "Casey - North",
+      "population": 138933
+    },
+    "21203": {
+      "name": "Casey - South",
+      "population": 240171
+    },
+    "21204": {
+      "name": "Dandenong",
+      "population": 195300
+    },
+    "21205": {
+      "name": "Monash",
+      "population": 187417
+    },
+    "21301": {
+      "name": "Brimbank",
+      "population": 184854
+    },
+    "21302": {
+      "name": "Hobsons Bay",
+      "population": 87166
+    },
+    "21303": {
+      "name": "Maribyrnong",
+      "population": 87605
+    },
+    "21304": {
+      "name": "Melton - Bacchus Marsh",
+      "population": 213073
+    },
+    "21305": {
+      "name": "Wyndham",
+      "population": 314096
+    },
+    "21401": {
+      "name": "Frankston",
+      "population": 141161
+    },
+    "21402": {
+      "name": "Mornington Peninsula",
+      "population": 169733
+    },
+    "21501": {
+      "name": "Grampians",
+      "population": 59794
+    },
+    "21502": {
+      "name": "Mildura",
+      "population": 57250
+    },
+    "21503": {
+      "name": "Murray River - Swan Hill",
+      "population": 37893
+    },
+    "21601": {
+      "name": "Campaspe",
+      "population": 38718
+    },
+    "21602": {
+      "name": "Moira",
+      "population": 30584
+    },
+    "21603": {
+      "name": "Shepparton",
+      "population": 68775
+    },
+    "21701": {
+      "name": "Glenelg - Southern Grampians",
+      "population": 36504
+    },
+    "21703": {
+      "name": "Colac - Corangamite",
+      "population": 38159
+    },
+    "21704": {
+      "name": "Warrnambool",
+      "population": 53053
+    },
+    "30101": {
+      "name": "Capalaba",
+      "population": 74712
+    },
+    "30102": {
+      "name": "Cleveland - Stradbroke",
+      "population": 96702
+    },
+    "30103": {
+      "name": "Wynnum - Manly",
+      "population": 74593
+    },
+    "30201": {
+      "name": "Bald Hills - Everton Park",
+      "population": 47712
+    },
+    "30202": {
+      "name": "Chermside",
+      "population": 76171
+    },
+    "30203": {
+      "name": "Nundah",
+      "population": 44468
+    },
+    "30204": {
+      "name": "Sandgate",
+      "population": 62468
+    },
+    "30301": {
+      "name": "Carindale",
+      "population": 55656
+    },
+    "30302": {
+      "name": "Holland Park - Yeronga",
+      "population": 81962
+    },
+    "30303": {
+      "name": "Mt Gravatt",
+      "population": 82028
+    },
+    "30304": {
+      "name": "Nathan",
+      "population": 40852
+    },
+    "30305": {
+      "name": "Rocklea - Acacia Ridge",
+      "population": 71667
+    },
+    "30306": {
+      "name": "Sunnybank",
+      "population": 51414
+    },
+    "30401": {
+      "name": "Centenary",
+      "population": 33284
+    },
+    "30402": {
+      "name": "Kenmore - Brookfield - Moggill",
+      "population": 48587
+    },
+    "30403": {
+      "name": "Sherwood - Indooroopilly",
+      "population": 56088
+    },
+    "30404": {
+      "name": "The Gap - Enoggera",
+      "population": 55435
+    },
+    "30501": {
+      "name": "Brisbane Inner",
+      "population": 93740
+    },
+    "30502": {
+      "name": "Brisbane Inner - East",
+      "population": 45757
+    },
+    "30503": {
+      "name": "Brisbane Inner - North",
+      "population": 104120
+    },
+    "30504": {
+      "name": "Brisbane Inner - West",
+      "population": 62102
+    },
+    "30601": {
+      "name": "Cairns - North",
+      "population": 59912
+    },
+    "30602": {
+      "name": "Cairns - South",
+      "population": 108335
+    },
+    "30603": {
+      "name": "Innisfail - Cassowary Coast",
+      "population": 35962
+    },
+    "30604": {
+      "name": "Port Douglas - Daintree",
+      "population": 12571
+    },
+    "30605": {
+      "name": "Tablelands (East) - Kuranda",
+      "population": 43884
+    },
+    "30701": {
+      "name": "Darling Downs (West) - Maranoa",
+      "population": 44956
+    },
+    "30702": {
+      "name": "Darling Downs - East",
+      "population": 43694
+    },
+    "30703": {
+      "name": "Granite Belt",
+      "population": 42342
+    },
+    "30801": {
+      "name": "Central Highlands (Qld)",
+      "population": 29589
+    },
+    "30803": {
+      "name": "Rockhampton",
+      "population": 124497
+    },
+    "30804": {
+      "name": "Biloela",
+      "population": 14778
+    },
+    "30805": {
+      "name": "Gladstone",
+      "population": 65302
+    },
+    "30901": {
+      "name": "Broadbeach - Burleigh",
+      "population": 68468
+    },
+    "30902": {
+      "name": "Coolangatta",
+      "population": 58828
+    },
+    "30903": {
+      "name": "Gold Coast - North",
+      "population": 70883
+    },
+    "30904": {
+      "name": "Gold Coast Hinterland",
+      "population": 20644
+    },
+    "30905": {
+      "name": "Mudgeeraba - Tallebudgera",
+      "population": 36927
+    },
+    "30906": {
+      "name": "Nerang",
+      "population": 71173
+    },
+    "30907": {
+      "name": "Ormeau - Oxenford",
+      "population": 167763
+    },
+    "30908": {
+      "name": "Robina",
+      "population": 55265
+    },
+    "30909": {
+      "name": "Southport",
+      "population": 66171
+    },
+    "30910": {
+      "name": "Surfers Paradise",
+      "population": 47195
+    },
+    "31001": {
+      "name": "Forest Lake - Oxley",
+      "population": 81016
+    },
+    "31002": {
+      "name": "Ipswich Hinterland",
+      "population": 70037
+    },
+    "31003": {
+      "name": "Ipswich Inner",
+      "population": 121480
+    },
+    "31004": {
+      "name": "Springfield - Redbank",
+      "population": 112400
+    },
+    "31101": {
+      "name": "Beaudesert",
+      "population": 15235
+    },
+    "31102": {
+      "name": "Beenleigh",
+      "population": 48645
+    },
+    "31103": {
+      "name": "Browns Plains",
+      "population": 100194
+    },
+    "31104": {
+      "name": "Jimboomba",
+      "population": 67109
+    },
+    "31105": {
+      "name": "Loganlea - Carbrook",
+      "population": 66565
+    },
+    "31106": {
+      "name": "Springwood - Kingston",
+      "population": 80546
+    },
+    "31201": {
+      "name": "Bowen Basin - North",
+      "population": 37015
+    },
+    "31202": {
+      "name": "Mackay",
+      "population": 124950
+    },
+    "31203": {
+      "name": "Whitsunday",
+      "population": 24238
+    },
+    "31301": {
+      "name": "Bribie - Beachmere",
+      "population": 38482
+    },
+    "31302": {
+      "name": "Caboolture",
+      "population": 84585
+    },
+    "31303": {
+      "name": "Caboolture Hinterland",
+      "population": 15535
+    },
+    "31304": {
+      "name": "Narangba - Burpengary",
+      "population": 72327
+    },
+    "31305": {
+      "name": "Redcliffe",
+      "population": 65625
+    },
+    "31401": {
+      "name": "The Hills District",
+      "population": 92325
+    },
+    "31402": {
+      "name": "North Lakes",
+      "population": 93054
+    },
+    "31403": {
+      "name": "Strathpine",
+      "population": 41068
+    },
+    "31501": {
+      "name": "Far North",
+      "population": 33149
+    },
+    "31502": {
+      "name": "Outback - North",
+      "population": 31100
+    },
+    "31503": {
+      "name": "Outback - South",
+      "population": 17430
+    },
+    "31601": {
+      "name": "Buderim",
+      "population": 60685
+    },
+    "31602": {
+      "name": "Caloundra",
+      "population": 100148
+    },
+    "31603": {
+      "name": "Maroochy",
+      "population": 65418
+    },
+    "31605": {
+      "name": "Noosa",
+      "population": 47614
+    },
+    "31606": {
+      "name": "Sunshine Coast Hinterland",
+      "population": 62337
+    },
+    "31607": {
+      "name": "Nambour",
+      "population": 52015
+    },
+    "31608": {
+      "name": "Noosa Hinterland",
+      "population": 25023
+    },
+    "31701": {
+      "name": "Toowoomba",
+      "population": 167199
+    },
+    "31801": {
+      "name": "Charters Towers - Ayr - Ingham",
+      "population": 42082
+    },
+    "31802": {
+      "name": "Townsville",
+      "population": 198179
+    },
+    "31901": {
+      "name": "Bundaberg",
+      "population": 96522
+    },
+    "31902": {
+      "name": "Burnett",
+      "population": 50784
+    },
+    "31903": {
+      "name": "Gympie - Cooloola",
+      "population": 55008
+    },
+    "31904": {
+      "name": "Hervey Bay",
+      "population": 66028
+    },
+    "31905": {
+      "name": "Maryborough",
+      "population": 49132
+    },
+    "40101": {
+      "name": "Adelaide City",
+      "population": 26183
+    },
+    "40102": {
+      "name": "Adelaide Hills",
+      "population": 82125
+    },
+    "40103": {
+      "name": "Burnside",
+      "population": 46710
+    },
+    "40104": {
+      "name": "Campbelltown (SA)",
+      "population": 56394
+    },
+    "40105": {
+      "name": "Norwood - Payneham - St Peters",
+      "population": 38019
+    },
+    "40106": {
+      "name": "Prospect - Walkerville",
+      "population": 30935
+    },
+    "40107": {
+      "name": "Unley",
+      "population": 39092
+    },
+    "40201": {
+      "name": "Gawler - Two Wells",
+      "population": 39488
+    },
+    "40202": {
+      "name": "Playford",
+      "population": 104147
+    },
+    "40203": {
+      "name": "Port Adelaide - East",
+      "population": 79047
+    },
+    "40204": {
+      "name": "Salisbury",
+      "population": 146644
+    },
+    "40205": {
+      "name": "Tea Tree Gully",
+      "population": 98029
+    },
+    "40301": {
+      "name": "Holdfast Bay",
+      "population": 36202
+    },
+    "40302": {
+      "name": "Marion",
+      "population": 98256
+    },
+    "40303": {
+      "name": "Mitcham",
+      "population": 67039
+    },
+    "40304": {
+      "name": "Onkaparinga",
+      "population": 179857
+    },
+    "40401": {
+      "name": "Charles Sturt",
+      "population": 121440
+    },
+    "40402": {
+      "name": "Port Adelaide - West",
+      "population": 62208
+    },
+    "40403": {
+      "name": "West Torrens",
+      "population": 66508
+    },
+    "40501": {
+      "name": "Barossa",
+      "population": 39265
+    },
+    "40502": {
+      "name": "Lower North",
+      "population": 23199
+    },
+    "40503": {
+      "name": "Mid North",
+      "population": 27706
+    },
+    "40504": {
+      "name": "Yorke Peninsula",
+      "population": 27572
+    },
+    "40601": {
+      "name": "Eyre Peninsula and South West",
+      "population": 58953
+    },
+    "40602": {
+      "name": "Outback - North and East",
+      "population": 26587
+    },
+    "40701": {
+      "name": "Fleurieu - Kangaroo Island",
+      "population": 57546
+    },
+    "40702": {
+      "name": "Limestone Coast",
+      "population": 68767
+    },
+    "40703": {
+      "name": "Murray and Mallee",
+      "population": 73297
+    },
+    "50101": {
+      "name": "Augusta - Margaret River - Busselton",
+      "population": 60727
+    },
+    "50102": {
+      "name": "Bunbury",
+      "population": 112642
+    },
+    "50103": {
+      "name": "Manjimup",
+      "population": 24874
+    },
+    "50201": {
+      "name": "Mandurah",
+      "population": 113980
+    },
+    "50301": {
+      "name": "Cottesloe - Claremont",
+      "population": 74815
+    },
+    "50302": {
+      "name": "Perth City",
+      "population": 116373
+    },
+    "50401": {
+      "name": "Bayswater - Bassendean",
+      "population": 88078
+    },
+    "50402": {
+      "name": "Mundaring",
+      "population": 45624
+    },
+    "50403": {
+      "name": "Swan",
+      "population": 158765
+    },
+    "50501": {
+      "name": "Joondalup",
+      "population": 166454
+    },
+    "50502": {
+      "name": "Stirling",
+      "population": 217436
+    },
+    "50503": {
+      "name": "Wanneroo",
+      "population": 220528
+    },
+    "50601": {
+      "name": "Armadale",
+      "population": 100849
+    },
+    "50602": {
+      "name": "Belmont - Victoria Park",
+      "population": 79189
+    },
+    "50603": {
+      "name": "Canning",
+      "population": 103172
+    },
+    "50604": {
+      "name": "Gosnells",
+      "population": 133064
+    },
+    "50605": {
+      "name": "Kalamunda",
+      "population": 61294
+    },
+    "50606": {
+      "name": "Serpentine - Jarrahdale",
+      "population": 34855
+    },
+    "50607": {
+      "name": "South Perth",
+      "population": 45245
+    },
+    "50701": {
+      "name": "Cockburn",
+      "population": 122960
+    },
+    "50702": {
+      "name": "Fremantle",
+      "population": 42009
+    },
+    "50703": {
+      "name": "Kwinana",
+      "population": 49542
+    },
+    "50704": {
+      "name": "Melville",
+      "population": 110034
+    },
+    "50705": {
+      "name": "Rockingham",
+      "population": 143754
+    },
+    "50901": {
+      "name": "Albany",
+      "population": 64437
+    },
+    "50902": {
+      "name": "Wheat Belt - North",
+      "population": 58428
+    },
+    "50903": {
+      "name": "Wheat Belt - South",
+      "population": 19934
+    },
+    "51001": {
+      "name": "Kimberley",
+      "population": 38955
+    },
+    "51002": {
+      "name": "East Pilbara",
+      "population": 27342
+    },
+    "51003": {
+      "name": "West Pilbara",
+      "population": 31652
+    },
+    "51101": {
+      "name": "Esperance",
+      "population": 16707
+    },
+    "51102": {
+      "name": "Gascoyne",
+      "population": 10107
+    },
+    "51103": {
+      "name": "Goldfields",
+      "population": 40295
+    },
+    "51104": {
+      "name": "Mid West",
+      "population": 57674
+    },
+    "60101": {
+      "name": "Brighton",
+      "population": 20300
+    },
+    "60102": {
+      "name": "Hobart - North East",
+      "population": 60650
+    },
+    "60103": {
+      "name": "Hobart - North West",
+      "population": 58776
+    },
+    "60104": {
+      "name": "Hobart - South and West",
+      "population": 37392
+    },
+    "60105": {
+      "name": "Hobart Inner",
+      "population": 56111
+    },
+    "60106": {
+      "name": "Sorell - Dodges Ferry",
+      "population": 19260
+    },
+    "60201": {
+      "name": "Launceston",
+      "population": 89715
+    },
+    "60202": {
+      "name": "Meander Valley - West Tamar",
+      "population": 25011
+    },
+    "60203": {
+      "name": "North East",
+      "population": 40815
+    },
+    "60301": {
+      "name": "Central Highlands (Tas.)",
+      "population": 12837
+    },
+    "60302": {
+      "name": "Huon - Bruny Island",
+      "population": 22780
+    },
+    "60303": {
+      "name": "South East Coast",
+      "population": 7849
+    },
+    "60401": {
+      "name": "Burnie - Ulverstone",
+      "population": 51362
+    },
+    "60402": {
+      "name": "Devonport",
+      "population": 49866
+    },
+    "60403": {
+      "name": "West Coast",
+      "population": 18327
+    },
+    "70101": {
+      "name": "Darwin City",
+      "population": 28423
+    },
+    "70102": {
+      "name": "Darwin Suburbs",
+      "population": 57776
+    },
+    "70103": {
+      "name": "Litchfield",
+      "population": 22638
+    },
+    "70104": {
+      "name": "Palmerston",
+      "population": 40317
+    },
+    "70201": {
+      "name": "Alice Springs",
+      "population": 40979
+    },
+    "70202": {
+      "name": "Barkly",
+      "population": 6024
+    },
+    "70203": {
+      "name": "Daly - Tiwi - West Arnhem",
+      "population": 18121
+    },
+    "70204": {
+      "name": "East Arnhem",
+      "population": 14597
+    },
+    "70205": {
+      "name": "Katherine",
+      "population": 21353
+    },
+    "80101": {
+      "name": "Belconnen",
+      "population": 106002
+    },
+    "80103": {
+      "name": "Canberra East",
+      "population": 1969
+    },
+    "80104": {
+      "name": "Gungahlin",
+      "population": 88420
+    },
+    "80105": {
+      "name": "North Canberra",
+      "population": 62578
+    },
+    "80106": {
+      "name": "South Canberra",
+      "population": 32184
+    },
+    "80107": {
+      "name": "Tuggeranong",
+      "population": 88858
+    },
+    "80108": {
+      "name": "Weston Creek",
+      "population": 24444
+    },
+    "80109": {
+      "name": "Woden Valley",
+      "population": 39201
+    },
+    "80110": {
+      "name": "Molonglo",
+      "population": 12635
+    },
+    "80111": {
+      "name": "Uriarra - Namadgi",
+      "population": 624
+    },
+    "90101": {
+      "name": "Christmas Island",
+      "population": 1786
+    },
+    "90102": {
+      "name": "Cocos (Keeling) Islands",
+      "population": 616
+    },
+    "90103": {
+      "name": "Jervis Bay",
+      "population": 307
+    },
+    "90104": {
+      "name": "Norfolk Island",
+      "population": 2211
+    }
+  },
+  "2023": {
+    "10102": {
+      "name": "Queanbeyan",
+      "population": 66882
+    },
+    "10103": {
+      "name": "Snowy Mountains",
+      "population": 21165
+    },
+    "10104": {
+      "name": "South Coast",
+      "population": 77442
+    },
+    "10105": {
+      "name": "Goulburn - Mulwaree",
+      "population": 39134
+    },
+    "10106": {
+      "name": "Young - Yass",
+      "population": 38446
+    },
+    "10201": {
+      "name": "Gosford",
+      "population": 180280
+    },
+    "10202": {
+      "name": "Wyong",
+      "population": 171620
+    },
+    "10301": {
+      "name": "Bathurst",
+      "population": 50187
+    },
+    "10302": {
+      "name": "Lachlan Valley",
+      "population": 54427
+    },
+    "10303": {
+      "name": "Lithgow - Mudgee",
+      "population": 47953
+    },
+    "10304": {
+      "name": "Orange",
+      "population": 62260
+    },
+    "10401": {
+      "name": "Clarence Valley",
+      "population": 54879
+    },
+    "10402": {
+      "name": "Coffs Harbour",
+      "population": 94153
+    },
+    "10501": {
+      "name": "Bourke - Cobar - Coonamble",
+      "population": 22095
+    },
+    "10502": {
+      "name": "Broken Hill and Far West",
+      "population": 19935
+    },
+    "10503": {
+      "name": "Dubbo",
+      "population": 75852
+    },
+    "10601": {
+      "name": "Lower Hunter",
+      "population": 102821
+    },
+    "10602": {
+      "name": "Maitland",
+      "population": 92716
+    },
+    "10603": {
+      "name": "Port Stephens",
+      "population": 78426
+    },
+    "10604": {
+      "name": "Upper Hunter",
+      "population": 31109
+    },
+    "10701": {
+      "name": "Dapto - Port Kembla",
+      "population": 81571
+    },
+    "10702": {
+      "name": "Illawarra Catchment Reserve",
+      "population": 5
+    },
+    "10703": {
+      "name": "Kiama - Shellharbour",
+      "population": 102619
+    },
+    "10704": {
+      "name": "Wollongong",
+      "population": 137576
+    },
+    "10801": {
+      "name": "Great Lakes",
+      "population": 33565
+    },
+    "10802": {
+      "name": "Kempsey - Nambucca",
+      "population": 52283
+    },
+    "10803": {
+      "name": "Lord Howe Island",
+      "population": 452
+    },
+    "10804": {
+      "name": "Port Macquarie",
+      "population": 89567
+    },
+    "10805": {
+      "name": "Taree - Gloucester",
+      "population": 58418
+    },
+    "10901": {
+      "name": "Albury",
+      "population": 68737
+    },
+    "10902": {
+      "name": "Lower Murray",
+      "population": 13193
+    },
+    "10903": {
+      "name": "Upper Murray exc. Albury",
+      "population": 44074
+    },
+    "11001": {
+      "name": "Armidale",
+      "population": 38018
+    },
+    "11002": {
+      "name": "Inverell - Tenterfield",
+      "population": 39221
+    },
+    "11003": {
+      "name": "Moree - Narrabri",
+      "population": 24901
+    },
+    "11004": {
+      "name": "Tamworth - Gunnedah",
+      "population": 87164
+    },
+    "11101": {
+      "name": "Lake Macquarie - East",
+      "population": 128399
+    },
+    "11102": {
+      "name": "Lake Macquarie - West",
+      "population": 88416
+    },
+    "11103": {
+      "name": "Newcastle",
+      "population": 185040
+    },
+    "11201": {
+      "name": "Richmond Valley - Coastal",
+      "population": 89922
+    },
+    "11202": {
+      "name": "Richmond Valley - Hinterland",
+      "population": 71549
+    },
+    "11203": {
+      "name": "Tweed Valley",
+      "population": 98963
+    },
+    "11301": {
+      "name": "Griffith - Murrumbidgee (West)",
+      "population": 49649
+    },
+    "11302": {
+      "name": "Tumut - Tumbarumba",
+      "population": 14947
+    },
+    "11303": {
+      "name": "Wagga Wagga",
+      "population": 100611
+    },
+    "11401": {
+      "name": "Shoalhaven",
+      "population": 109639
+    },
+    "11402": {
+      "name": "Southern Highlands",
+      "population": 53123
+    },
+    "11501": {
+      "name": "Baulkham Hills",
+      "population": 158091
+    },
+    "11502": {
+      "name": "Dural - Wisemans Ferry",
+      "population": 28226
+    },
+    "11503": {
+      "name": "Hawkesbury",
+      "population": 25175
+    },
+    "11504": {
+      "name": "Rouse Hill - McGraths Hill",
+      "population": 68565
+    },
+    "11601": {
+      "name": "Blacktown",
+      "population": 145853
+    },
+    "11602": {
+      "name": "Blacktown - North",
+      "population": 166901
+    },
+    "11603": {
+      "name": "Mount Druitt",
+      "population": 117656
+    },
+    "11701": {
+      "name": "Botany",
+      "population": 61984
+    },
+    "11702": {
+      "name": "Marrickville - Sydenham - Petersham",
+      "population": 56327
+    },
+    "11703": {
+      "name": "Sydney Inner City",
+      "population": 237897
+    },
+    "11801": {
+      "name": "Eastern Suburbs - North",
+      "population": 131322
+    },
+    "11802": {
+      "name": "Eastern Suburbs - South",
+      "population": 141819
+    },
+    "11901": {
+      "name": "Bankstown",
+      "population": 190315
+    },
+    "11902": {
+      "name": "Canterbury",
+      "population": 144815
+    },
+    "11903": {
+      "name": "Hurstville",
+      "population": 136244
+    },
+    "11904": {
+      "name": "Kogarah - Rockdale",
+      "population": 151949
+    },
+    "12001": {
+      "name": "Canada Bay",
+      "population": 88729
+    },
+    "12002": {
+      "name": "Leichhardt",
+      "population": 57417
+    },
+    "12003": {
+      "name": "Strathfield - Burwood - Ashfield",
+      "population": 168612
+    },
+    "12101": {
+      "name": "Chatswood - Lane Cove",
+      "population": 121928
+    },
+    "12102": {
+      "name": "Hornsby",
+      "population": 89638
+    },
+    "12103": {
+      "name": "Ku-ring-gai",
+      "population": 127328
+    },
+    "12104": {
+      "name": "North Sydney - Mosman",
+      "population": 98494
+    },
+    "12201": {
+      "name": "Manly",
+      "population": 44483
+    },
+    "12202": {
+      "name": "Pittwater",
+      "population": 64000
+    },
+    "12203": {
+      "name": "Warringah",
+      "population": 159416
+    },
+    "12301": {
+      "name": "Camden",
+      "population": 76325
+    },
+    "12302": {
+      "name": "Campbelltown (NSW)",
+      "population": 186339
+    },
+    "12303": {
+      "name": "Wollondilly",
+      "population": 48613
+    },
+    "12401": {
+      "name": "Blue Mountains",
+      "population": 78297
+    },
+    "12402": {
+      "name": "Blue Mountains - South",
+      "population": 7
+    },
+    "12403": {
+      "name": "Penrith",
+      "population": 165892
+    },
+    "12404": {
+      "name": "Richmond - Windsor",
+      "population": 38881
+    },
+    "12405": {
+      "name": "St Marys",
+      "population": 58029
+    },
+    "12501": {
+      "name": "Auburn",
+      "population": 109672
+    },
+    "12502": {
+      "name": "Carlingford",
+      "population": 76868
+    },
+    "12503": {
+      "name": "Merrylands - Guildford",
+      "population": 169045
+    },
+    "12504": {
+      "name": "Parramatta",
+      "population": 159191
+    },
+    "12601": {
+      "name": "Pennant Hills - Epping",
+      "population": 56627
+    },
+    "12602": {
+      "name": "Ryde - Hunters Hill",
+      "population": 154428
+    },
+    "12701": {
+      "name": "Bringelly - Green Valley",
+      "population": 161912
+    },
+    "12702": {
+      "name": "Fairfield",
+      "population": 196113
+    },
+    "12703": {
+      "name": "Liverpool",
+      "population": 143950
+    },
+    "12801": {
+      "name": "Cronulla - Miranda - Caringbah",
+      "population": 121280
+    },
+    "12802": {
+      "name": "Sutherland - Menai - Heathcote",
+      "population": 113142
+    },
+    "20101": {
+      "name": "Ballarat",
+      "population": 120649
+    },
+    "20102": {
+      "name": "Creswick - Daylesford - Ballan",
+      "population": 31115
+    },
+    "20103": {
+      "name": "Maryborough - Pyrenees",
+      "population": 27038
+    },
+    "20201": {
+      "name": "Bendigo",
+      "population": 104871
+    },
+    "20202": {
+      "name": "Heathcote - Castlemaine - Kyneton",
+      "population": 53575
+    },
+    "20203": {
+      "name": "Loddon - Elmore",
+      "population": 12409
+    },
+    "20301": {
+      "name": "Barwon - West",
+      "population": 23386
+    },
+    "20302": {
+      "name": "Geelong",
+      "population": 219243
+    },
+    "20303": {
+      "name": "Surf Coast - Bellarine Peninsula",
+      "population": 99279
+    },
+    "20401": {
+      "name": "Upper Goulburn Valley",
+      "population": 61224
+    },
+    "20402": {
+      "name": "Wangaratta - Benalla",
+      "population": 48723
+    },
+    "20403": {
+      "name": "Wodonga - Alpine",
+      "population": 77679
+    },
+    "20501": {
+      "name": "Baw Baw",
+      "population": 60766
+    },
+    "20502": {
+      "name": "Gippsland - East",
+      "population": 49303
+    },
+    "20503": {
+      "name": "Gippsland - South West",
+      "population": 73723
+    },
+    "20504": {
+      "name": "Latrobe Valley",
+      "population": 77996
+    },
+    "20505": {
+      "name": "Wellington",
+      "population": 45993
+    },
+    "20601": {
+      "name": "Brunswick - Coburg",
+      "population": 96029
+    },
+    "20602": {
+      "name": "Darebin - South",
+      "population": 55408
+    },
+    "20603": {
+      "name": "Essendon",
+      "population": 72019
+    },
+    "20604": {
+      "name": "Melbourne City",
+      "population": 177770
+    },
+    "20605": {
+      "name": "Port Phillip",
+      "population": 109601
+    },
+    "20606": {
+      "name": "Stonnington - West",
+      "population": 66877
+    },
+    "20607": {
+      "name": "Yarra",
+      "population": 98489
+    },
+    "20701": {
+      "name": "Boroondara",
+      "population": 174633
+    },
+    "20702": {
+      "name": "Manningham - West",
+      "population": 102959
+    },
+    "20703": {
+      "name": "Whitehorse - West",
+      "population": 114874
+    },
+    "20801": {
+      "name": "Bayside",
+      "population": 104307
+    },
+    "20802": {
+      "name": "Glen Eira",
+      "population": 164832
+    },
+    "20803": {
+      "name": "Kingston",
+      "population": 126641
+    },
+    "20804": {
+      "name": "Stonnington - East",
+      "population": 44539
+    },
+    "20901": {
+      "name": "Banyule",
+      "population": 129607
+    },
+    "20902": {
+      "name": "Darebin - North",
+      "population": 100305
+    },
+    "20903": {
+      "name": "Nillumbik - Kinglake",
+      "population": 67611
+    },
+    "20904": {
+      "name": "Whittlesea - Wallan",
+      "population": 271309
+    },
+    "21001": {
+      "name": "Keilor",
+      "population": 63041
+    },
+    "21002": {
+      "name": "Macedon Ranges",
+      "population": 34317
+    },
+    "21003": {
+      "name": "Moreland - North",
+      "population": 84252
+    },
+    "21004": {
+      "name": "Sunbury",
+      "population": 48087
+    },
+    "21005": {
+      "name": "Tullamarine - Broadmeadows",
+      "population": 221090
+    },
+    "21101": {
+      "name": "Knox",
+      "population": 161808
+    },
+    "21102": {
+      "name": "Manningham - East",
+      "population": 26655
+    },
+    "21103": {
+      "name": "Maroondah",
+      "population": 116967
+    },
+    "21104": {
+      "name": "Whitehorse - East",
+      "population": 64612
+    },
+    "21105": {
+      "name": "Yarra Ranges",
+      "population": 157846
+    },
+    "21201": {
+      "name": "Cardinia",
+      "population": 127090
+    },
+    "21202": {
+      "name": "Casey - North",
+      "population": 141806
+    },
+    "21203": {
+      "name": "Casey - South",
+      "population": 250254
+    },
+    "21204": {
+      "name": "Dandenong",
+      "population": 200919
+    },
+    "21205": {
+      "name": "Monash",
+      "population": 195752
+    },
+    "21301": {
+      "name": "Brimbank",
+      "population": 187500
+    },
+    "21302": {
+      "name": "Hobsons Bay",
+      "population": 88934
+    },
+    "21303": {
+      "name": "Maribyrnong",
+      "population": 91776
+    },
+    "21304": {
+      "name": "Melton - Bacchus Marsh",
+      "population": 225632
+    },
+    "21305": {
+      "name": "Wyndham",
+      "population": 328867
+    },
+    "21401": {
+      "name": "Frankston",
+      "population": 142808
+    },
+    "21402": {
+      "name": "Mornington Peninsula",
+      "population": 170245
+    },
+    "21501": {
+      "name": "Grampians",
+      "population": 59569
+    },
+    "21502": {
+      "name": "Mildura",
+      "population": 57553
+    },
+    "21503": {
+      "name": "Murray River - Swan Hill",
+      "population": 37668
+    },
+    "21601": {
+      "name": "Campaspe",
+      "population": 38457
+    },
+    "21602": {
+      "name": "Moira",
+      "population": 30771
+    },
+    "21603": {
+      "name": "Shepparton",
+      "population": 68948
+    },
+    "21701": {
+      "name": "Glenelg - Southern Grampians",
+      "population": 36539
+    },
+    "21703": {
+      "name": "Colac - Corangamite",
+      "population": 38180
+    },
+    "21704": {
+      "name": "Warrnambool",
+      "population": 53516
+    },
+    "30101": {
+      "name": "Capalaba",
+      "population": 75708
+    },
+    "30102": {
+      "name": "Cleveland - Stradbroke",
+      "population": 98920
+    },
+    "30103": {
+      "name": "Wynnum - Manly",
+      "population": 75567
+    },
+    "30201": {
+      "name": "Bald Hills - Everton Park",
+      "population": 48849
+    },
+    "30202": {
+      "name": "Chermside",
+      "population": 77531
+    },
+    "30203": {
+      "name": "Nundah",
+      "population": 45561
+    },
+    "30204": {
+      "name": "Sandgate",
+      "population": 63679
+    },
+    "30301": {
+      "name": "Carindale",
+      "population": 57005
+    },
+    "30302": {
+      "name": "Holland Park - Yeronga",
+      "population": 84058
+    },
+    "30303": {
+      "name": "Mt Gravatt",
+      "population": 84411
+    },
+    "30304": {
+      "name": "Nathan",
+      "population": 42109
+    },
+    "30305": {
+      "name": "Rocklea - Acacia Ridge",
+      "population": 74958
+    },
+    "30306": {
+      "name": "Sunnybank",
+      "population": 53213
+    },
+    "30401": {
+      "name": "Centenary",
+      "population": 33615
+    },
+    "30402": {
+      "name": "Kenmore - Brookfield - Moggill",
+      "population": 49354
+    },
+    "30403": {
+      "name": "Sherwood - Indooroopilly",
+      "population": 58899
+    },
+    "30404": {
+      "name": "The Gap - Enoggera",
+      "population": 56777
+    },
+    "30501": {
+      "name": "Brisbane Inner",
+      "population": 99944
+    },
+    "30502": {
+      "name": "Brisbane Inner - East",
+      "population": 47193
+    },
+    "30503": {
+      "name": "Brisbane Inner - North",
+      "population": 108240
+    },
+    "30504": {
+      "name": "Brisbane Inner - West",
+      "population": 64473
+    },
+    "30601": {
+      "name": "Cairns - North",
+      "population": 61525
+    },
+    "30602": {
+      "name": "Cairns - South",
+      "population": 110135
+    },
+    "30603": {
+      "name": "Innisfail - Cassowary Coast",
+      "population": 36348
+    },
+    "30604": {
+      "name": "Port Douglas - Daintree",
+      "population": 12736
+    },
+    "30605": {
+      "name": "Tablelands (East) - Kuranda",
+      "population": 44620
+    },
+    "30701": {
+      "name": "Darling Downs (West) - Maranoa",
+      "population": 45329
+    },
+    "30702": {
+      "name": "Darling Downs - East",
+      "population": 44291
+    },
+    "30703": {
+      "name": "Granite Belt",
+      "population": 42854
+    },
+    "30801": {
+      "name": "Central Highlands (Qld)",
+      "population": 30050
+    },
+    "30803": {
+      "name": "Rockhampton",
+      "population": 126409
+    },
+    "30804": {
+      "name": "Biloela",
+      "population": 14917
+    },
+    "30805": {
+      "name": "Gladstone",
+      "population": 66829
+    },
+    "30901": {
+      "name": "Broadbeach - Burleigh",
+      "population": 70531
+    },
+    "30902": {
+      "name": "Coolangatta",
+      "population": 60296
+    },
+    "30903": {
+      "name": "Gold Coast - North",
+      "population": 72324
+    },
+    "30904": {
+      "name": "Gold Coast Hinterland",
+      "population": 20965
+    },
+    "30905": {
+      "name": "Mudgeeraba - Tallebudgera",
+      "population": 37480
+    },
+    "30906": {
+      "name": "Nerang",
+      "population": 72372
+    },
+    "30907": {
+      "name": "Ormeau - Oxenford",
+      "population": 174695
+    },
+    "30908": {
+      "name": "Robina",
+      "population": 56589
+    },
+    "30909": {
+      "name": "Southport",
+      "population": 67763
+    },
+    "30910": {
+      "name": "Surfers Paradise",
+      "population": 49494
+    },
+    "31001": {
+      "name": "Forest Lake - Oxley",
+      "population": 83552
+    },
+    "31002": {
+      "name": "Ipswich Hinterland",
+      "population": 71745
+    },
+    "31003": {
+      "name": "Ipswich Inner",
+      "population": 125146
+    },
+    "31004": {
+      "name": "Springfield - Redbank",
+      "population": 116830
+    },
+    "31101": {
+      "name": "Beaudesert",
+      "population": 15670
+    },
+    "31102": {
+      "name": "Beenleigh",
+      "population": 50615
+    },
+    "31103": {
+      "name": "Browns Plains",
+      "population": 105829
+    },
+    "31104": {
+      "name": "Jimboomba",
+      "population": 70923
+    },
+    "31105": {
+      "name": "Loganlea - Carbrook",
+      "population": 68219
+    },
+    "31106": {
+      "name": "Springwood - Kingston",
+      "population": 82138
+    },
+    "31201": {
+      "name": "Bowen Basin - North",
+      "population": 37719
+    },
+    "31202": {
+      "name": "Mackay",
+      "population": 126887
+    },
+    "31203": {
+      "name": "Whitsunday",
+      "population": 25015
+    },
+    "31301": {
+      "name": "Bribie - Beachmere",
+      "population": 39191
+    },
+    "31302": {
+      "name": "Caboolture",
+      "population": 88318
+    },
+    "31303": {
+      "name": "Caboolture Hinterland",
+      "population": 16026
+    },
+    "31304": {
+      "name": "Narangba - Burpengary",
+      "population": 74106
+    },
+    "31305": {
+      "name": "Redcliffe",
+      "population": 66731
+    },
+    "31401": {
+      "name": "The Hills District",
+      "population": 93912
+    },
+    "31402": {
+      "name": "North Lakes",
+      "population": 96009
+    },
+    "31403": {
+      "name": "Strathpine",
+      "population": 42109
+    },
+    "31501": {
+      "name": "Far North",
+      "population": 33456
+    },
+    "31502": {
+      "name": "Outback - North",
+      "population": 31154
+    },
+    "31503": {
+      "name": "Outback - South",
+      "population": 17532
+    },
+    "31601": {
+      "name": "Buderim",
+      "population": 62119
+    },
+    "31602": {
+      "name": "Caloundra",
+      "population": 103068
+    },
+    "31603": {
+      "name": "Maroochy",
+      "population": 66777
+    },
+    "31605": {
+      "name": "Noosa",
+      "population": 48460
+    },
+    "31606": {
+      "name": "Sunshine Coast Hinterland",
+      "population": 65136
+    },
+    "31607": {
+      "name": "Nambour",
+      "population": 53169
+    },
+    "31608": {
+      "name": "Noosa Hinterland",
+      "population": 25578
+    },
+    "31701": {
+      "name": "Toowoomba",
+      "population": 170781
+    },
+    "31801": {
+      "name": "Charters Towers - Ayr - Ingham",
+      "population": 42314
+    },
+    "31802": {
+      "name": "Townsville",
+      "population": 201458
+    },
+    "31901": {
+      "name": "Bundaberg",
+      "population": 98525
+    },
+    "31902": {
+      "name": "Burnett",
+      "population": 51556
+    },
+    "31903": {
+      "name": "Gympie - Cooloola",
+      "population": 56060
+    },
+    "31904": {
+      "name": "Hervey Bay",
+      "population": 67798
+    },
+    "31905": {
+      "name": "Maryborough",
+      "population": 50230
+    },
+    "40101": {
+      "name": "Adelaide City",
+      "population": 27984
+    },
+    "40102": {
+      "name": "Adelaide Hills",
+      "population": 83754
+    },
+    "40103": {
+      "name": "Burnside",
+      "population": 47489
+    },
+    "40104": {
+      "name": "Campbelltown (SA)",
+      "population": 57583
+    },
+    "40105": {
+      "name": "Norwood - Payneham - St Peters",
+      "population": 39352
+    },
+    "40106": {
+      "name": "Prospect - Walkerville",
+      "population": 31583
+    },
+    "40107": {
+      "name": "Unley",
+      "population": 39969
+    },
+    "40201": {
+      "name": "Gawler - Two Wells",
+      "population": 40754
+    },
+    "40202": {
+      "name": "Playford",
+      "population": 107772
+    },
+    "40203": {
+      "name": "Port Adelaide - East",
+      "population": 80635
+    },
+    "40204": {
+      "name": "Salisbury",
+      "population": 148009
+    },
+    "40205": {
+      "name": "Tea Tree Gully",
+      "population": 99087
+    },
+    "40301": {
+      "name": "Holdfast Bay",
+      "population": 36867
+    },
+    "40302": {
+      "name": "Marion",
+      "population": 100192
+    },
+    "40303": {
+      "name": "Mitcham",
+      "population": 68213
+    },
+    "40304": {
+      "name": "Onkaparinga",
+      "population": 182249
+    },
+    "40401": {
+      "name": "Charles Sturt",
+      "population": 123964
+    },
+    "40402": {
+      "name": "Port Adelaide - West",
+      "population": 63498
+    },
+    "40403": {
+      "name": "West Torrens",
+      "population": 68084
+    },
+    "40501": {
+      "name": "Barossa",
+      "population": 39852
+    },
+    "40502": {
+      "name": "Lower North",
+      "population": 23209
+    },
+    "40503": {
+      "name": "Mid North",
+      "population": 27694
+    },
+    "40504": {
+      "name": "Yorke Peninsula",
+      "population": 28001
+    },
+    "40601": {
+      "name": "Eyre Peninsula and South West",
+      "population": 59206
+    },
+    "40602": {
+      "name": "Outback - North and East",
+      "population": 26556
+    },
+    "40701": {
+      "name": "Fleurieu - Kangaroo Island",
+      "population": 58424
+    },
+    "40702": {
+      "name": "Limestone Coast",
+      "population": 69141
+    },
+    "40703": {
+      "name": "Murray and Mallee",
+      "population": 73851
+    },
+    "50101": {
+      "name": "Augusta - Margaret River - Busselton",
+      "population": 62498
+    },
+    "50102": {
+      "name": "Bunbury",
+      "population": 114492
+    },
+    "50103": {
+      "name": "Manjimup",
+      "population": 25136
+    },
+    "50201": {
+      "name": "Mandurah",
+      "population": 118394
+    },
+    "50301": {
+      "name": "Cottesloe - Claremont",
+      "population": 77871
+    },
+    "50302": {
+      "name": "Perth City",
+      "population": 122576
+    },
+    "50401": {
+      "name": "Bayswater - Bassendean",
+      "population": 90520
+    },
+    "50402": {
+      "name": "Mundaring",
+      "population": 46824
+    },
+    "50403": {
+      "name": "Swan",
+      "population": 166232
+    },
+    "50501": {
+      "name": "Joondalup",
+      "population": 170653
+    },
+    "50502": {
+      "name": "Stirling",
+      "population": 224648
+    },
+    "50503": {
+      "name": "Wanneroo",
+      "population": 228814
+    },
+    "50601": {
+      "name": "Armadale",
+      "population": 105158
+    },
+    "50602": {
+      "name": "Belmont - Victoria Park",
+      "population": 82657
+    },
+    "50603": {
+      "name": "Canning",
+      "population": 107566
+    },
+    "50604": {
+      "name": "Gosnells",
+      "population": 137493
+    },
+    "50605": {
+      "name": "Kalamunda",
+      "population": 62705
+    },
+    "50606": {
+      "name": "Serpentine - Jarrahdale",
+      "population": 36810
+    },
+    "50607": {
+      "name": "South Perth",
+      "population": 46822
+    },
+    "50701": {
+      "name": "Cockburn",
+      "population": 128044
+    },
+    "50702": {
+      "name": "Fremantle",
+      "population": 43578
+    },
+    "50703": {
+      "name": "Kwinana",
+      "population": 52139
+    },
+    "50704": {
+      "name": "Melville",
+      "population": 113214
+    },
+    "50705": {
+      "name": "Rockingham",
+      "population": 148911
+    },
+    "50901": {
+      "name": "Albany",
+      "population": 65239
+    },
+    "50902": {
+      "name": "Wheat Belt - North",
+      "population": 59524
+    },
+    "50903": {
+      "name": "Wheat Belt - South",
+      "population": 20056
+    },
+    "51001": {
+      "name": "Kimberley",
+      "population": 39410
+    },
+    "51002": {
+      "name": "East Pilbara",
+      "population": 27663
+    },
+    "51003": {
+      "name": "West Pilbara",
+      "population": 32334
+    },
+    "51101": {
+      "name": "Esperance",
+      "population": 16833
+    },
+    "51102": {
+      "name": "Gascoyne",
+      "population": 10330
+    },
+    "51103": {
+      "name": "Goldfields",
+      "population": 40411
+    },
+    "51104": {
+      "name": "Mid West",
+      "population": 58207
+    },
+    "60101": {
+      "name": "Brighton",
+      "population": 20581
+    },
+    "60102": {
+      "name": "Hobart - North East",
+      "population": 61310
+    },
+    "60103": {
+      "name": "Hobart - North West",
+      "population": 58744
+    },
+    "60104": {
+      "name": "Hobart - South and West",
+      "population": 37648
+    },
+    "60105": {
+      "name": "Hobart Inner",
+      "population": 56202
+    },
+    "60106": {
+      "name": "Sorell - Dodges Ferry",
+      "population": 19499
+    },
+    "60201": {
+      "name": "Launceston",
+      "population": 89713
+    },
+    "60202": {
+      "name": "Meander Valley - West Tamar",
+      "population": 25202
+    },
+    "60203": {
+      "name": "North East",
+      "population": 41126
+    },
+    "60301": {
+      "name": "Central Highlands (Tas.)",
+      "population": 12883
+    },
+    "60302": {
+      "name": "Huon - Bruny Island",
+      "population": 23055
+    },
+    "60303": {
+      "name": "South East Coast",
+      "population": 7908
+    },
+    "60401": {
+      "name": "Burnie - Ulverstone",
+      "population": 51399
+    },
+    "60402": {
+      "name": "Devonport",
+      "population": 50147
+    },
+    "60403": {
+      "name": "West Coast",
+      "population": 18321
+    },
+    "70101": {
+      "name": "Darwin City",
+      "population": 28894
+    },
+    "70102": {
+      "name": "Darwin Suburbs",
+      "population": 58278
+    },
+    "70103": {
+      "name": "Litchfield",
+      "population": 22942
+    },
+    "70104": {
+      "name": "Palmerston",
+      "population": 41008
+    },
+    "70201": {
+      "name": "Alice Springs",
+      "population": 41526
+    },
+    "70202": {
+      "name": "Barkly",
+      "population": 6045
+    },
+    "70203": {
+      "name": "Daly - Tiwi - West Arnhem",
+      "population": 18277
+    },
+    "70204": {
+      "name": "East Arnhem",
+      "population": 14687
+    },
+    "70205": {
+      "name": "Katherine",
+      "population": 21405
+    },
+    "80101": {
+      "name": "Belconnen",
+      "population": 107782
+    },
+    "80103": {
+      "name": "Canberra East",
+      "population": 2003
+    },
+    "80104": {
+      "name": "Gungahlin",
+      "population": 90579
+    },
+    "80105": {
+      "name": "North Canberra",
+      "population": 64788
+    },
+    "80106": {
+      "name": "South Canberra",
+      "population": 33022
+    },
+    "80107": {
+      "name": "Tuggeranong",
+      "population": 89199
+    },
+    "80108": {
+      "name": "Weston Creek",
+      "population": 24637
+    },
+    "80109": {
+      "name": "Woden Valley",
+      "population": 39481
+    },
+    "80110": {
+      "name": "Molonglo",
+      "population": 14246
+    },
+    "80111": {
+      "name": "Uriarra - Namadgi",
+      "population": 622
+    },
+    "90101": {
+      "name": "Christmas Island",
+      "population": 1827
+    },
+    "90102": {
+      "name": "Cocos (Keeling) Islands",
+      "population": 629
+    },
+    "90103": {
+      "name": "Jervis Bay",
+      "population": 304
+    },
+    "90104": {
+      "name": "Norfolk Island",
+      "population": 2207
+    }
+  },
+  "2024": {
+    "10102": {
+      "name": "Queanbeyan",
+      "population": 68473
+    },
+    "10103": {
+      "name": "Snowy Mountains",
+      "population": 21296
+    },
+    "10104": {
+      "name": "South Coast",
+      "population": 78003
+    },
+    "10105": {
+      "name": "Goulburn - Mulwaree",
+      "population": 39562
+    },
+    "10106": {
+      "name": "Young - Yass",
+      "population": 38753
+    },
+    "10201": {
+      "name": "Gosford",
+      "population": 181658
+    },
+    "10202": {
+      "name": "Wyong",
+      "population": 173145
+    },
+    "10301": {
+      "name": "Bathurst",
+      "population": 50529
+    },
+    "10302": {
+      "name": "Lachlan Valley",
+      "population": 54344
+    },
+    "10303": {
+      "name": "Lithgow - Mudgee",
+      "population": 48327
+    },
+    "10304": {
+      "name": "Orange",
+      "population": 62800
+    },
+    "10401": {
+      "name": "Clarence Valley",
+      "population": 55716
+    },
+    "10402": {
+      "name": "Coffs Harbour",
+      "population": 94847
+    },
+    "10501": {
+      "name": "Bourke - Cobar - Coonamble",
+      "population": 22005
+    },
+    "10502": {
+      "name": "Broken Hill and Far West",
+      "population": 19840
+    },
+    "10503": {
+      "name": "Dubbo",
+      "population": 76236
+    },
+    "10601": {
+      "name": "Lower Hunter",
+      "population": 105038
+    },
+    "10602": {
+      "name": "Maitland",
+      "population": 94799
+    },
+    "10603": {
+      "name": "Port Stephens",
+      "population": 79356
+    },
+    "10604": {
+      "name": "Upper Hunter",
+      "population": 31223
+    },
+    "10701": {
+      "name": "Dapto - Port Kembla",
+      "population": 82396
+    },
+    "10702": {
+      "name": "Illawarra Catchment Reserve",
+      "population": 5
+    },
+    "10703": {
+      "name": "Kiama - Shellharbour",
+      "population": 104623
+    },
+    "10704": {
+      "name": "Wollongong",
+      "population": 139323
+    },
+    "10801": {
+      "name": "Great Lakes",
+      "population": 33811
+    },
+    "10802": {
+      "name": "Kempsey - Nambucca",
+      "population": 52761
+    },
+    "10803": {
+      "name": "Lord Howe Island",
+      "population": 448
+    },
+    "10804": {
+      "name": "Port Macquarie",
+      "population": 90903
+    },
+    "10805": {
+      "name": "Taree - Gloucester",
+      "population": 58837
+    },
+    "10901": {
+      "name": "Albury",
+      "population": 69679
+    },
+    "10902": {
+      "name": "Lower Murray",
+      "population": 13332
+    },
+    "10903": {
+      "name": "Upper Murray exc. Albury",
+      "population": 44453
+    },
+    "11001": {
+      "name": "Armidale",
+      "population": 38154
+    },
+    "11002": {
+      "name": "Inverell - Tenterfield",
+      "population": 39310
+    },
+    "11003": {
+      "name": "Moree - Narrabri",
+      "population": 24828
+    },
+    "11004": {
+      "name": "Tamworth - Gunnedah",
+      "population": 87997
+    },
+    "11101": {
+      "name": "Lake Macquarie - East",
+      "population": 129234
+    },
+    "11102": {
+      "name": "Lake Macquarie - West",
+      "population": 90226
+    },
+    "11103": {
+      "name": "Newcastle",
+      "population": 187897
+    },
+    "11201": {
+      "name": "Richmond Valley - Coastal",
+      "population": 91379
+    },
+    "11202": {
+      "name": "Richmond Valley - Hinterland",
+      "population": 71639
+    },
+    "11203": {
+      "name": "Tweed Valley",
+      "population": 99793
+    },
+    "11301": {
+      "name": "Griffith - Murrumbidgee (West)",
+      "population": 49946
+    },
+    "11302": {
+      "name": "Tumut - Tumbarumba",
+      "population": 14971
+    },
+    "11303": {
+      "name": "Wagga Wagga",
+      "population": 100935
+    },
+    "11401": {
+      "name": "Shoalhaven",
+      "population": 110537
+    },
+    "11402": {
+      "name": "Southern Highlands",
+      "population": 53517
+    },
+    "11501": {
+      "name": "Baulkham Hills",
+      "population": 159856
+    },
+    "11502": {
+      "name": "Dural - Wisemans Ferry",
+      "population": 28423
+    },
+    "11503": {
+      "name": "Hawkesbury",
+      "population": 25243
+    },
+    "11504": {
+      "name": "Rouse Hill - McGraths Hill",
+      "population": 74414
+    },
+    "11601": {
+      "name": "Blacktown",
+      "population": 147185
+    },
+    "11602": {
+      "name": "Blacktown - North",
+      "population": 176444
+    },
+    "11603": {
+      "name": "Mount Druitt",
+      "population": 118825
+    },
+    "11701": {
+      "name": "Botany",
+      "population": 62328
+    },
+    "11702": {
+      "name": "Marrickville - Sydenham - Petersham",
+      "population": 57207
+    },
+    "11703": {
+      "name": "Sydney Inner City",
+      "population": 243970
+    },
+    "11801": {
+      "name": "Eastern Suburbs - North",
+      "population": 133328
+    },
+    "11802": {
+      "name": "Eastern Suburbs - South",
+      "population": 144589
+    },
+    "11901": {
+      "name": "Bankstown",
+      "population": 193256
+    },
+    "11902": {
+      "name": "Canterbury",
+      "population": 146381
+    },
+    "11903": {
+      "name": "Hurstville",
+      "population": 138899
+    },
+    "11904": {
+      "name": "Kogarah - Rockdale",
+      "population": 155571
+    },
+    "12001": {
+      "name": "Canada Bay",
+      "population": 89946
+    },
+    "12002": {
+      "name": "Leichhardt",
+      "population": 58273
+    },
+    "12003": {
+      "name": "Strathfield - Burwood - Ashfield",
+      "population": 172236
+    },
+    "12101": {
+      "name": "Chatswood - Lane Cove",
+      "population": 124750
+    },
+    "12102": {
+      "name": "Hornsby",
+      "population": 90755
+    },
+    "12103": {
+      "name": "Ku-ring-gai",
+      "population": 128989
+    },
+    "12104": {
+      "name": "North Sydney - Mosman",
+      "population": 99529
+    },
+    "12201": {
+      "name": "Manly",
+      "population": 45173
+    },
+    "12202": {
+      "name": "Pittwater",
+      "population": 64366
+    },
+    "12203": {
+      "name": "Warringah",
+      "population": 161233
+    },
+    "12301": {
+      "name": "Camden",
+      "population": 77749
+    },
+    "12302": {
+      "name": "Campbelltown (NSW)",
+      "population": 189943
+    },
+    "12303": {
+      "name": "Wollondilly",
+      "population": 50473
+    },
+    "12401": {
+      "name": "Blue Mountains",
+      "population": 78604
+    },
+    "12402": {
+      "name": "Blue Mountains - South",
+      "population": 7
+    },
+    "12403": {
+      "name": "Penrith",
+      "population": 169142
+    },
+    "12404": {
+      "name": "Richmond - Windsor",
+      "population": 39434
+    },
+    "12405": {
+      "name": "St Marys",
+      "population": 59138
+    },
+    "12501": {
+      "name": "Auburn",
+      "population": 113554
+    },
+    "12502": {
+      "name": "Carlingford",
+      "population": 78354
+    },
+    "12503": {
+      "name": "Merrylands - Guildford",
+      "population": 172650
+    },
+    "12504": {
+      "name": "Parramatta",
+      "population": 162662
+    },
+    "12601": {
+      "name": "Pennant Hills - Epping",
+      "population": 57379
+    },
+    "12602": {
+      "name": "Ryde - Hunters Hill",
+      "population": 158204
+    },
+    "12701": {
+      "name": "Bringelly - Green Valley",
+      "population": 170887
+    },
+    "12702": {
+      "name": "Fairfield",
+      "population": 198113
+    },
+    "12703": {
+      "name": "Liverpool",
+      "population": 147623
+    },
+    "12801": {
+      "name": "Cronulla - Miranda - Caringbah",
+      "population": 123132
+    },
+    "12802": {
+      "name": "Sutherland - Menai - Heathcote",
+      "population": 114213
+    },
+    "20101": {
+      "name": "Ballarat",
+      "population": 123562
+    },
+    "20102": {
+      "name": "Creswick - Daylesford - Ballan",
+      "population": 31498
+    },
+    "20103": {
+      "name": "Maryborough - Pyrenees",
+      "population": 27400
+    },
+    "20201": {
+      "name": "Bendigo",
+      "population": 106022
+    },
+    "20202": {
+      "name": "Heathcote - Castlemaine - Kyneton",
+      "population": 54077
+    },
+    "20203": {
+      "name": "Loddon - Elmore",
+      "population": 12655
+    },
+    "20301": {
+      "name": "Barwon - West",
+      "population": 24016
+    },
+    "20302": {
+      "name": "Geelong",
+      "population": 223939
+    },
+    "20303": {
+      "name": "Surf Coast - Bellarine Peninsula",
+      "population": 101887
+    },
+    "20401": {
+      "name": "Upper Goulburn Valley",
+      "population": 62249
+    },
+    "20402": {
+      "name": "Wangaratta - Benalla",
+      "population": 49047
+    },
+    "20403": {
+      "name": "Wodonga - Alpine",
+      "population": 78341
+    },
+    "20501": {
+      "name": "Baw Baw",
+      "population": 62040
+    },
+    "20502": {
+      "name": "Gippsland - East",
+      "population": 49539
+    },
+    "20503": {
+      "name": "Gippsland - South West",
+      "population": 74753
+    },
+    "20504": {
+      "name": "Latrobe Valley",
+      "population": 78686
+    },
+    "20505": {
+      "name": "Wellington",
+      "population": 46416
+    },
+    "20601": {
+      "name": "Brunswick - Coburg",
+      "population": 99537
+    },
+    "20602": {
+      "name": "Darebin - South",
+      "population": 56543
+    },
+    "20603": {
+      "name": "Essendon",
+      "population": 74369
+    },
+    "20604": {
+      "name": "Melbourne City",
+      "population": 189379
+    },
+    "20605": {
+      "name": "Port Phillip",
+      "population": 112672
+    },
+    "20606": {
+      "name": "Stonnington - West",
+      "population": 68620
+    },
+    "20607": {
+      "name": "Yarra",
+      "population": 101733
+    },
+    "20701": {
+      "name": "Boroondara",
+      "population": 178008
+    },
+    "20702": {
+      "name": "Manningham - West",
+      "population": 104807
+    },
+    "20703": {
+      "name": "Whitehorse - West",
+      "population": 118702
+    },
+    "20801": {
+      "name": "Bayside",
+      "population": 106118
+    },
+    "20802": {
+      "name": "Glen Eira",
+      "population": 169145
+    },
+    "20803": {
+      "name": "Kingston",
+      "population": 128877
+    },
+    "20804": {
+      "name": "Stonnington - East",
+      "population": 45418
+    },
+    "20901": {
+      "name": "Banyule",
+      "population": 131931
+    },
+    "20902": {
+      "name": "Darebin - North",
+      "population": 103420
+    },
+    "20903": {
+      "name": "Nillumbik - Kinglake",
+      "population": 68092
+    },
+    "20904": {
+      "name": "Whittlesea - Wallan",
+      "population": 281619
+    },
+    "21001": {
+      "name": "Keilor",
+      "population": 64063
+    },
+    "21002": {
+      "name": "Macedon Ranges",
+      "population": 35115
+    },
+    "21003": {
+      "name": "Moreland - North",
+      "population": 85970
+    },
+    "21004": {
+      "name": "Sunbury",
+      "population": 50000
+    },
+    "21005": {
+      "name": "Tullamarine - Broadmeadows",
+      "population": 228673
+    },
+    "21101": {
+      "name": "Knox",
+      "population": 163339
+    },
+    "21102": {
+      "name": "Manningham - East",
+      "population": 27016
+    },
+    "21103": {
+      "name": "Maroondah",
+      "population": 118885
+    },
+    "21104": {
+      "name": "Whitehorse - East",
+      "population": 65543
+    },
+    "21105": {
+      "name": "Yarra Ranges",
+      "population": 159320
+    },
+    "21201": {
+      "name": "Cardinia",
+      "population": 130536
+    },
+    "21202": {
+      "name": "Casey - North",
+      "population": 144349
+    },
+    "21203": {
+      "name": "Casey - South",
+      "population": 261066
+    },
+    "21204": {
+      "name": "Dandenong",
+      "population": 204942
+    },
+    "21205": {
+      "name": "Monash",
+      "population": 201180
+    },
+    "21301": {
+      "name": "Brimbank",
+      "population": 189454
+    },
+    "21302": {
+      "name": "Hobsons Bay",
+      "population": 90765
+    },
+    "21303": {
+      "name": "Maribyrnong",
+      "population": 94251
+    },
+    "21304": {
+      "name": "Melton - Bacchus Marsh",
+      "population": 239306
+    },
+    "21305": {
+      "name": "Wyndham",
+      "population": 341877
+    },
+    "21401": {
+      "name": "Frankston",
+      "population": 144615
+    },
+    "21402": {
+      "name": "Mornington Peninsula",
+      "population": 171450
+    },
+    "21501": {
+      "name": "Grampians",
+      "population": 59413
+    },
+    "21502": {
+      "name": "Mildura",
+      "population": 57626
+    },
+    "21503": {
+      "name": "Murray River - Swan Hill",
+      "population": 37454
+    },
+    "21601": {
+      "name": "Campaspe",
+      "population": 38317
+    },
+    "21602": {
+      "name": "Moira",
+      "population": 30836
+    },
+    "21603": {
+      "name": "Shepparton",
+      "population": 69684
+    },
+    "21701": {
+      "name": "Glenelg - Southern Grampians",
+      "population": 36591
+    },
+    "21703": {
+      "name": "Colac - Corangamite",
+      "population": 38110
+    },
+    "21704": {
+      "name": "Warrnambool",
+      "population": 53856
+    },
+    "30101": {
+      "name": "Capalaba",
+      "population": 76556
+    },
+    "30102": {
+      "name": "Cleveland - Stradbroke",
+      "population": 101572
+    },
+    "30103": {
+      "name": "Wynnum - Manly",
+      "population": 76920
+    },
+    "30201": {
+      "name": "Bald Hills - Everton Park",
+      "population": 49958
+    },
+    "30202": {
+      "name": "Chermside",
+      "population": 79106
+    },
+    "30203": {
+      "name": "Nundah",
+      "population": 46663
+    },
+    "30204": {
+      "name": "Sandgate",
+      "population": 64927
+    },
+    "30301": {
+      "name": "Carindale",
+      "population": 58034
+    },
+    "30302": {
+      "name": "Holland Park - Yeronga",
+      "population": 85824
+    },
+    "30303": {
+      "name": "Mt Gravatt",
+      "population": 86540
+    },
+    "30304": {
+      "name": "Nathan",
+      "population": 43252
+    },
+    "30305": {
+      "name": "Rocklea - Acacia Ridge",
+      "population": 77485
+    },
+    "30306": {
+      "name": "Sunnybank",
+      "population": 54686
+    },
+    "30401": {
+      "name": "Centenary",
+      "population": 33928
+    },
+    "30402": {
+      "name": "Kenmore - Brookfield - Moggill",
+      "population": 50031
+    },
+    "30403": {
+      "name": "Sherwood - Indooroopilly",
+      "population": 60753
+    },
+    "30404": {
+      "name": "The Gap - Enoggera",
+      "population": 57852
+    },
+    "30501": {
+      "name": "Brisbane Inner",
+      "population": 104824
+    },
+    "30502": {
+      "name": "Brisbane Inner - East",
+      "population": 48286
+    },
+    "30503": {
+      "name": "Brisbane Inner - North",
+      "population": 111024
+    },
+    "30504": {
+      "name": "Brisbane Inner - West",
+      "population": 65676
+    },
+    "30601": {
+      "name": "Cairns - North",
+      "population": 62644
+    },
+    "30602": {
+      "name": "Cairns - South",
+      "population": 111695
+    },
+    "30603": {
+      "name": "Innisfail - Cassowary Coast",
+      "population": 36814
+    },
+    "30604": {
+      "name": "Port Douglas - Daintree",
+      "population": 12974
+    },
+    "30605": {
+      "name": "Tablelands (East) - Kuranda",
+      "population": 45272
+    },
+    "30701": {
+      "name": "Darling Downs (West) - Maranoa",
+      "population": 45687
+    },
+    "30702": {
+      "name": "Darling Downs - East",
+      "population": 44607
+    },
+    "30703": {
+      "name": "Granite Belt",
+      "population": 43323
+    },
+    "30801": {
+      "name": "Central Highlands (Qld)",
+      "population": 30434
+    },
+    "30803": {
+      "name": "Rockhampton",
+      "population": 128183
+    },
+    "30804": {
+      "name": "Biloela",
+      "population": 15053
+    },
+    "30805": {
+      "name": "Gladstone",
+      "population": 68065
+    },
+    "30901": {
+      "name": "Broadbeach - Burleigh",
+      "population": 72394
+    },
+    "30902": {
+      "name": "Coolangatta",
+      "population": 61846
+    },
+    "30903": {
+      "name": "Gold Coast - North",
+      "population": 73375
+    },
+    "30904": {
+      "name": "Gold Coast Hinterland",
+      "population": 21266
+    },
+    "30905": {
+      "name": "Mudgeeraba - Tallebudgera",
+      "population": 38104
+    },
+    "30906": {
+      "name": "Nerang",
+      "population": 73356
+    },
+    "30907": {
+      "name": "Ormeau - Oxenford",
+      "population": 180138
+    },
+    "30908": {
+      "name": "Robina",
+      "population": 57708
+    },
+    "30909": {
+      "name": "Southport",
+      "population": 68651
+    },
+    "30910": {
+      "name": "Surfers Paradise",
+      "population": 51179
+    },
+    "31001": {
+      "name": "Forest Lake - Oxley",
+      "population": 85221
+    },
+    "31002": {
+      "name": "Ipswich Hinterland",
+      "population": 73245
+    },
+    "31003": {
+      "name": "Ipswich Inner",
+      "population": 129524
+    },
+    "31004": {
+      "name": "Springfield - Redbank",
+      "population": 120789
+    },
+    "31101": {
+      "name": "Beaudesert",
+      "population": 16114
+    },
+    "31102": {
+      "name": "Beenleigh",
+      "population": 52458
+    },
+    "31103": {
+      "name": "Browns Plains",
+      "population": 111625
+    },
+    "31104": {
+      "name": "Jimboomba",
+      "population": 75673
+    },
+    "31105": {
+      "name": "Loganlea - Carbrook",
+      "population": 69034
+    },
+    "31106": {
+      "name": "Springwood - Kingston",
+      "population": 83549
+    },
+    "31201": {
+      "name": "Bowen Basin - North",
+      "population": 38247
+    },
+    "31202": {
+      "name": "Mackay",
+      "population": 128361
+    },
+    "31203": {
+      "name": "Whitsunday",
+      "population": 25694
+    },
+    "31301": {
+      "name": "Bribie - Beachmere",
+      "population": 39789
+    },
+    "31302": {
+      "name": "Caboolture",
+      "population": 91946
+    },
+    "31303": {
+      "name": "Caboolture Hinterland",
+      "population": 16536
+    },
+    "31304": {
+      "name": "Narangba - Burpengary",
+      "population": 76186
+    },
+    "31305": {
+      "name": "Redcliffe",
+      "population": 68075
+    },
+    "31401": {
+      "name": "The Hills District",
+      "population": 95502
+    },
+    "31402": {
+      "name": "North Lakes",
+      "population": 97949
+    },
+    "31403": {
+      "name": "Strathpine",
+      "population": 42951
+    },
+    "31501": {
+      "name": "Far North",
+      "population": 33703
+    },
+    "31502": {
+      "name": "Outback - North",
+      "population": 31095
+    },
+    "31503": {
+      "name": "Outback - South",
+      "population": 17629
+    },
+    "31601": {
+      "name": "Buderim",
+      "population": 62952
+    },
+    "31602": {
+      "name": "Caloundra",
+      "population": 106532
+    },
+    "31603": {
+      "name": "Maroochy",
+      "population": 67971
+    },
+    "31605": {
+      "name": "Noosa",
+      "population": 49262
+    },
+    "31606": {
+      "name": "Sunshine Coast Hinterland",
+      "population": 67521
+    },
+    "31607": {
+      "name": "Nambour",
+      "population": 54392
+    },
+    "31608": {
+      "name": "Noosa Hinterland",
+      "population": 25972
+    },
+    "31701": {
+      "name": "Toowoomba",
+      "population": 173649
+    },
+    "31801": {
+      "name": "Charters Towers - Ayr - Ingham",
+      "population": 42642
+    },
+    "31802": {
+      "name": "Townsville",
+      "population": 204592
+    },
+    "31901": {
+      "name": "Bundaberg",
+      "population": 100388
+    },
+    "31902": {
+      "name": "Burnett",
+      "population": 52275
+    },
+    "31903": {
+      "name": "Gympie - Cooloola",
+      "population": 57340
+    },
+    "31904": {
+      "name": "Hervey Bay",
+      "population": 69662
+    },
+    "31905": {
+      "name": "Maryborough",
+      "population": 51123
+    },
+    "40101": {
+      "name": "Adelaide City",
+      "population": 29118
+    },
+    "40102": {
+      "name": "Adelaide Hills",
+      "population": 85575
+    },
+    "40103": {
+      "name": "Burnside",
+      "population": 47810
+    },
+    "40104": {
+      "name": "Campbelltown (SA)",
+      "population": 58400
+    },
+    "40105": {
+      "name": "Norwood - Payneham - St Peters",
+      "population": 40062
+    },
+    "40106": {
+      "name": "Prospect - Walkerville",
+      "population": 31871
+    },
+    "40107": {
+      "name": "Unley",
+      "population": 40327
+    },
+    "40201": {
+      "name": "Gawler - Two Wells",
+      "population": 41741
+    },
+    "40202": {
+      "name": "Playford",
+      "population": 111850
+    },
+    "40203": {
+      "name": "Port Adelaide - East",
+      "population": 81940
+    },
+    "40204": {
+      "name": "Salisbury",
+      "population": 149090
+    },
+    "40205": {
+      "name": "Tea Tree Gully",
+      "population": 99613
+    },
+    "40301": {
+      "name": "Holdfast Bay",
+      "population": 37301
+    },
+    "40302": {
+      "name": "Marion",
+      "population": 101525
+    },
+    "40303": {
+      "name": "Mitcham",
+      "population": 69086
+    },
+    "40304": {
+      "name": "Onkaparinga",
+      "population": 184219
+    },
+    "40401": {
+      "name": "Charles Sturt",
+      "population": 125592
+    },
+    "40402": {
+      "name": "Port Adelaide - West",
+      "population": 64699
+    },
+    "40403": {
+      "name": "West Torrens",
+      "population": 69344
+    },
+    "40501": {
+      "name": "Barossa",
+      "population": 40361
+    },
+    "40502": {
+      "name": "Lower North",
+      "population": 23244
+    },
+    "40503": {
+      "name": "Mid North",
+      "population": 27705
+    },
+    "40504": {
+      "name": "Yorke Peninsula",
+      "population": 28460
+    },
+    "40601": {
+      "name": "Eyre Peninsula and South West",
+      "population": 59406
+    },
+    "40602": {
+      "name": "Outback - North and East",
+      "population": 26540
+    },
+    "40701": {
+      "name": "Fleurieu - Kangaroo Island",
+      "population": 59364
+    },
+    "40702": {
+      "name": "Limestone Coast",
+      "population": 69336
+    },
+    "40703": {
+      "name": "Murray and Mallee",
+      "population": 74432
+    },
+    "50101": {
+      "name": "Augusta - Margaret River - Busselton",
+      "population": 64288
+    },
+    "50102": {
+      "name": "Bunbury",
+      "population": 116367
+    },
+    "50103": {
+      "name": "Manjimup",
+      "population": 25541
+    },
+    "50201": {
+      "name": "Mandurah",
+      "population": 122716
+    },
+    "50301": {
+      "name": "Cottesloe - Claremont",
+      "population": 80258
+    },
+    "50302": {
+      "name": "Perth City",
+      "population": 126934
+    },
+    "50401": {
+      "name": "Bayswater - Bassendean",
+      "population": 92363
+    },
+    "50402": {
+      "name": "Mundaring",
+      "population": 47861
+    },
+    "50403": {
+      "name": "Swan",
+      "population": 173599
+    },
+    "50501": {
+      "name": "Joondalup",
+      "population": 174383
+    },
+    "50502": {
+      "name": "Stirling",
+      "population": 229809
+    },
+    "50503": {
+      "name": "Wanneroo",
+      "population": 236788
+    },
+    "50601": {
+      "name": "Armadale",
+      "population": 109218
+    },
+    "50602": {
+      "name": "Belmont - Victoria Park",
+      "population": 85217
+    },
+    "50603": {
+      "name": "Canning",
+      "population": 110842
+    },
+    "50604": {
+      "name": "Gosnells",
+      "population": 141279
+    },
+    "50605": {
+      "name": "Kalamunda",
+      "population": 63827
+    },
+    "50606": {
+      "name": "Serpentine - Jarrahdale",
+      "population": 38687
+    },
+    "50607": {
+      "name": "South Perth",
+      "population": 47958
+    },
+    "50701": {
+      "name": "Cockburn",
+      "population": 132734
+    },
+    "50702": {
+      "name": "Fremantle",
+      "population": 44872
+    },
+    "50703": {
+      "name": "Kwinana",
+      "population": 54672
+    },
+    "50704": {
+      "name": "Melville",
+      "population": 116222
+    },
+    "50705": {
+      "name": "Rockingham",
+      "population": 154132
+    },
+    "50901": {
+      "name": "Albany",
+      "population": 65998
+    },
+    "50902": {
+      "name": "Wheat Belt - North",
+      "population": 60818
+    },
+    "50903": {
+      "name": "Wheat Belt - South",
+      "population": 20220
+    },
+    "51001": {
+      "name": "Kimberley",
+      "population": 39934
+    },
+    "51002": {
+      "name": "East Pilbara",
+      "population": 27851
+    },
+    "51003": {
+      "name": "West Pilbara",
+      "population": 32895
+    },
+    "51101": {
+      "name": "Esperance",
+      "population": 16842
+    },
+    "51102": {
+      "name": "Gascoyne",
+      "population": 10530
+    },
+    "51103": {
+      "name": "Goldfields",
+      "population": 40733
+    },
+    "51104": {
+      "name": "Mid West",
+      "population": 58690
+    },
+    "60101": {
+      "name": "Brighton",
+      "population": 20864
+    },
+    "60102": {
+      "name": "Hobart - North East",
+      "population": 61547
+    },
+    "60103": {
+      "name": "Hobart - North West",
+      "population": 58678
+    },
+    "60104": {
+      "name": "Hobart - South and West",
+      "population": 37982
+    },
+    "60105": {
+      "name": "Hobart Inner",
+      "population": 56085
+    },
+    "60106": {
+      "name": "Sorell - Dodges Ferry",
+      "population": 19774
+    },
+    "60201": {
+      "name": "Launceston",
+      "population": 89399
+    },
+    "60202": {
+      "name": "Meander Valley - West Tamar",
+      "population": 25440
+    },
+    "60203": {
+      "name": "North East",
+      "population": 41410
+    },
+    "60301": {
+      "name": "Central Highlands (Tas.)",
+      "population": 12953
+    },
+    "60302": {
+      "name": "Huon - Bruny Island",
+      "population": 23346
+    },
+    "60303": {
+      "name": "South East Coast",
+      "population": 7985
+    },
+    "60401": {
+      "name": "Burnie - Ulverstone",
+      "population": 51412
+    },
+    "60402": {
+      "name": "Devonport",
+      "population": 50338
+    },
+    "60403": {
+      "name": "West Coast",
+      "population": 18283
+    },
+    "70101": {
+      "name": "Darwin City",
+      "population": 29076
+    },
+    "70102": {
+      "name": "Darwin Suburbs",
+      "population": 58532
+    },
+    "70103": {
+      "name": "Litchfield",
+      "population": 23449
+    },
+    "70104": {
+      "name": "Palmerston",
+      "population": 41432
+    },
+    "70201": {
+      "name": "Alice Springs",
+      "population": 41962
+    },
+    "70202": {
+      "name": "Barkly",
+      "population": 6067
+    },
+    "70203": {
+      "name": "Daly - Tiwi - West Arnhem",
+      "population": 18374
+    },
+    "70204": {
+      "name": "East Arnhem",
+      "population": 14724
+    },
+    "70205": {
+      "name": "Katherine",
+      "population": 21453
+    },
+    "80101": {
+      "name": "Belconnen",
+      "population": 108483
+    },
+    "80103": {
+      "name": "Canberra East",
+      "population": 2009
+    },
+    "80104": {
+      "name": "Gungahlin",
+      "population": 92178
+    },
+    "80105": {
+      "name": "North Canberra",
+      "population": 66338
+    },
+    "80106": {
+      "name": "South Canberra",
+      "population": 33697
+    },
+    "80107": {
+      "name": "Tuggeranong",
+      "population": 89340
+    },
+    "80108": {
+      "name": "Weston Creek",
+      "population": 24724
+    },
+    "80109": {
+      "name": "Woden Valley",
+      "population": 40436
+    },
+    "80110": {
+      "name": "Molonglo",
+      "population": 16026
+    },
+    "80111": {
+      "name": "Uriarra - Namadgi",
+      "population": 624
+    },
+    "90101": {
+      "name": "Christmas Island",
+      "population": 1865
+    },
+    "90102": {
+      "name": "Cocos (Keeling) Islands",
+      "population": 625
+    },
+    "90103": {
+      "name": "Jervis Bay",
+      "population": 304
+    },
+    "90104": {
+      "name": "Norfolk Island",
+      "population": 2200
+    }
+  }
+}

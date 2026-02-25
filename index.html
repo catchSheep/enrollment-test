@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>ACSES Enrollment map</title>
+  <link rel="stylesheet" href="css/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" />
+  <link rel="stylesheet" href="css/map_features.css">
+  <link rel="stylesheet" href="css/dropdowns.css">
+  <link rel="stylesheet" href="css/containers.css">
+</head>
+
+<body>
+
+  <body>
+    <div id="citation-info" class="popup-info"> <!-- hidden by default -->
+      <div id="citation-content" class="popup-content">
+        <div class="popup-title">ACSES Enrollment Map Citation Information</div>
+        <div id="citation-body" class="popup-body">...</div>
+        <div id="citation-exit" class="exit-button"></div>
+      </div>
+    </div>
+    <div id="help-info" class="popup-info"> <!-- hidden by default -->
+      <div id="help-content" class="popup-content">
+        <div class="popup-title">ACSES Enrollment Map Help</div>
+        <div id="help-body" class="popup-body">...</div>
+        <div id="citation-exit" class="exit-button"></div>
+      </div>
+    </div>
+    <div id="main_container" class="grid-container">
+      <div id="left-panel" class="left-panel">
+
+        <!-- Search for a University -->
+        <div class="dropdown">
+          <div class="title">University</div>
+          <button class="dropbtn" id="uniSearchBtn">...</button>
+          <div id="university-search-dropdown" class="dropdown-content">
+            <input type="text" placeholder="Search for a university.." id="uni-search-input">
+            <!-- Dynamic buttons -->
+          </div>
+        </div>
+
+        <!-- Toggle for uni locations -->
+        <div id="show_uni_dropdown" class="dropdown">
+          <div class="title">University Locations Shown</div>
+          <button class="dropbtn">...</button>
+          <div id="" class="dropdown-content">
+            <button id="show-none-uni">None</button>
+            <button id="show-selected-uni">Currently Selected University</button>
+            <button id="show-all-unis">All</button>
+          </div>
+        </div>
+
+        <!-- Filter: Region -->
+        <div id="region_dropdown" class="dropdown">
+          <div class="title">Region</div>
+          <button class="dropbtn">...</button>
+          <div class="dropdown-content">
+            <button id="sa3_aus">Australia-Wide (big regions)</button>
+            <button id="sa2_wa">WA (detailed)</button>
+            <button id="sa2_sa">SA (detailed)</button>
+            <button id="sa2_qld">QLD (detailed)</button>
+            <button id="sa2_nt">NT (detailed)</button>
+            <button id="sa2_nsw">NSW (detailed)</button>
+            <button id="sa2_vic">Victoria (detailed)</button>
+            <button id="sa2_tas">Tasmania (detailed)</button>
+          </div>
+        </div>
+        <!-- Filter: Year -->
+        <div id="year_dropdown" class="dropdown">
+          <div class="title">Year</div>
+          <button class="dropbtn">...</button>
+          <div class="dropdown-content">
+            <button id="year_2023">2023</button>
+            <button id="year_2024">2024</button>
+          </div>
+        </div>
+
+
+
+
+        <!-- Filter: Enrollment type -->
+        <div id="mode_dropdown" class="dropdown">
+          <div class="title">Enrolment Type</div>
+          <button class="dropbtn">...</button>
+          <div class="dropdown-content">
+            <button id="all_students_enrollment">All Students</button>
+            <button id="external_enrollment">External</button>
+            <button id="internal_enrollment">Internal</button>
+            <button id="multi-modal_enrollment">Multi-modal</button>
+          </div>
+        </div>
+        <!-- Filter: Equity status -->
+        <div id="equity_dropdown" class="dropdown">
+          <div class="title">Equity Group</div>
+          <button class="dropbtn">...</button>
+          <div id="" class="dropdown-content">
+            <button id="all_students_equity">All Students</button>
+            <button id="low_ses_equity">Low SES</button>
+            <button id="first_nations_equity">First Nations Australians</button>
+            <button id="regional-remote_equity">Regional/Remote</button>
+            <button id="disability_equity">Students with disability</button>
+          </div>
+        </div>
+
+        <div id="display_dropdown" class="dropdown">
+          <div class="title">Display Type</div>
+          <button class="dropbtn">...</button>
+          <div id="" class="dropdown-content">
+            <button id="display-absolute">Absolute number</button>
+            <button id="display-local-proportion">Local Population Percentage</button>
+            <button id="display-uni-proportion">Proportion of each universties undergraduates</button>
+          </div>
+        </div>
+
+
+      </div>
+      <div class="right-panel">
+        <div class="top-icon-row">
+          <div class="top-icon-row-icon" id="helpbox-button"></div>
+          <div class="top-icon-row-icon" id="citationbox-button"></div>
+        </div>
+        <div class="leaflet-map" id="map"></div>
+      </div>
+    </div>
+  </body>
+  <script src="main.js"></script>
+
+</html>
